@@ -1,0 +1,138 @@
+,condition_dataset,last_name,first_name,birthdate,zip_code,gender,age,number_of_files,address_lines,city,state,patient_id
+121,Asthma,Turner,Yasuko,1950-11-10,1605,Female,71,16,1023 West Light Suite 37,Millbury,MA,4e8950f7-7766-4b6d-b685-cd28a84000ef
+14,Diabetes,Lueilwitz,Rebeca,1971-06-07,1460,Female,50,10,712 Borer Forge,Acton,MA,cdc01304-c231-479c-87c7-32c025c0a982
+88,Asthma,McGlynn,Justin,2004-03-07,1850,Male,17,8,246 Schulist Branch,Lowell,MA,2f72b478-e569-4124-acd1-91d0529b56fa
+85,Asthma,Marks,Fernando,1990-08-25,2170,Male,31,11,368 Boyer Annex,Quincy,MA,4e9208c7-51a3-4fdb-8aae-b98bc71bbf1b
+42,Asthma,Cartwright,Bebe,1946-11-13,2081,Female,75,11,843 Ortiz Loaf Unit 98,Norfolk,MA,3d9f21d7-673a-406f-a375-44b72ddab2cc
+131,No condition,Kuhlman,Layne,2015-05-29,1901,Female,6,1,"123 Main St, Apt 4",Cambridge,MA,8f9ad747-b7ad-40f5-85d9-c40dcd50924a
+6,Covid,Moen,Rose,1972-05-16,2743,Female,49,8,831 Douglas Arcade Apt 80,Rochester,MA,1bbbae3a-0e03-4615-87e8-02b474c70348
+119,Asthma,Stroman,Isreal,1979-10-02,2467,Male,42,8,995 Hoeger Track,Brookline,MA,591b98be-40e0-4d91-ad9a-bd453b28d851
+102,Asthma,Renner,Roland,1978-05-12,2114,Male,43,12,632 Herman Wynd,Boston,MA,c0266ec5-b5aa-4580-a588-f58f036df2c2
+78,Asthma,Kuphal,Mitch,1989-09-20,2459,Male,32,8,641 Runolfsdottir Skyway,Newton,MA,6d0ae6f8-c908-4a86-afae-c461058c2d53
+44,Asthma,Considine,Carlos,1988-12-05,2370,Female,32,10,368 Farrell Bridge Suite 22,Whitman,MA,0c9a9102-7dda-4397-939f-a2660038294b
+36,Asthma,Bernier,Alysa,1974-12-18,2149,Female,46,10,708 Lynch Vale Unit 48,Everett,MA,b0e06260-7efa-4a6e-913d-6c0742aab369
+89,Asthma,McKenzie,Lesley,1958-01-11,2019,Male,63,8,264 Beahan Byway,Bellingham,MA,49cd5e3d-a0a3-4bff-a9ad-38778967a0a1
+4,Covid,Lindgren,Mack,1958-07-02,1501,Male,63,8,172 Wisoky Heights,Auburn,MA,ffa48192-6345-48c9-a91c-c336daf6f897
+3,Covid,Kulas,Minh,1947-07-29,2452,Male,74,12,782 Hoppe Fork Unit 32,Waltham,MA,f21ffd22-a3ff-4f3c-ba77-8493ea92805a
+86,Asthma,Marks,Chantel,1954-01-17,1776,Female,67,8,486 Swift Mall Unit 19,Sudbury,MA,d764b272-b379-4b66-907d-73fd698329e5
+96,Asthma,Ortiz,Danika,1957-12-09,1376,Female,63,8,324 Cassin Mill Apt 80,Gill,MA,919e46d9-ee04-49e4-9386-6014b9326b1c
+47,Asthma,Crist,Waldo,2016-06-22,1351,Male,5,8,200 O'Hara Mission Suite 88,Montague,MA,51093543-8a5d-4167-98d4-be01a4edfa7b
+83,Asthma,Lindgren,Tempie,1979-09-27,2738,Female,42,9,830 McCullough Terrace,Wareham,MA,175774f3-c1c9-4da2-8714-ad1d526f7ebe
+15,Diabetes,Mills,Boyd,1969-08-29,2360,Male,52,10,553 Doyle Green Suite 94,Plymouth,MA,290f9fe9-473e-403f-9510-a9c66882dd2d
+12,Diabetes,Hansen,Terisa,1975-04-10,1532,Female,46,13,251 Balistreri Flat Apt 80,Berlin,MA,bc0a29d4-db0b-4d48-9a6d-4700a2d11c2a
+40,Asthma,Brekke,Art,1970-08-06,1983,Male,51,8,652 Nolan Grove,Middleton,MA,6e3275c9-b0a8-4f71-a156-33083f529f18
+99,Asthma,Pfeffer,Emory,1940-04-11,1778,Male,81,8,888 Krajcik Bridge Suite 81,Sudbury,MA,c24efd37-9918-4251-addf-9d896c646e06
+79,Asthma,Kuvalis,Dorthy,1948-07-25,2188,Female,73,17,1063 Koch Trace Suite 62,Weymouth,MA,84f52b7b-6741-48c2-97e9-7dbfddb4d092
+32,Asthma,Barton,Owen,2018-11-07,2368,Male,3,4,841 Lueilwitz Trafficway,Randolph,MA,266ddba6-90ca-4a71-b95e-4041ac209b57
+118,Asthma,Stokes,Vince,1956-07-19,1201,Male,65,10,185 Stracke Dale Apt 84,Pittsfield,MA,89ba69b5-2e1f-4453-9d2e-4ba70822bf25
+54,Asthma,Ebert,Moira,1986-07-14,1536,Female,35,9,1063 Anderson Ferry Unit 31,Grafton,MA,329a8153-22f2-4636-8916-72d124aefbf6
+101,Asthma,Pollich,Dean,1963-08-10,2476,Male,58,8,820 Hammes Trailer Apt 33,Arlington,MA,a566ca01-a615-4445-8061-89dbc1278d83
+112,Asthma,Schoen,Evelina,1993-10-18,2151,Female,28,12,957 Kunde Meadow Suite 79,Revere,MA,d16def01-4bda-4c60-9ad6-a9fdb7f0e198
+90,Asthma,Morar,Goldie,1945-09-29,1832,Female,76,9,854 Stamm Vale Apt 63,Haverhill,MA,0115f061-a430-4ff9-adc4-e2827e0fddf4
+105,Asthma,Rogahn,Lionel,2002-01-29,2129,Male,19,12,863 Pagac Divide Apt 0,Boston,MA,011c74dc-012c-4254-bb75-35ceddb575e2
+61,Asthma,Feil,Rachel,1981-01-19,2187,Female,40,8,953 Fritsch Parade,Milton,MA,c3fae46d-0c38-4a41-bb2d-025f7f1068f0
+93,Asthma,Nikolaus,Lang,1948-04-16,2186,Female,73,14,532 Raynor Glen,Milton,MA,9a0b0e5a-7ee0-4de0-9bd5-52e3ded8a49c
+65,Asthma,Gerhold,Norris,1923-12-31,2861,Male,97,8,702 Tromp Camp,Attleboro,MA,be59a4cb-9ead-40e7-b16c-065e4d74fddf
+106,Asthma,Russel,Rey,2000-12-22,1834,Male,20,9,662 Boehm Row Apt 60,Groveland,MA,28bc926e-7703-4ef4-8fd8-0b1894a33641
+87,Asthma,McGlynn,Veta,1985-06-22,2720,Female,36,14,1033 Littel Parade Apt 36,Fall River,MA,949b34d8-38a2-475e-b473-01545ff11483
+49,Asthma,Dietrich,Valene,1993-02-12,2142,Female,28,16,173 Ondricka Heights Apt 7,Cambridge,MA,faa9340f-a442-4afa-bfd7-a0f4a7255e85
+66,Asthma,Gorczany,Carola,1978-07-02,2139,Female,43,14,860 Graham Ramp Unit 16,Cambridge,MA,23d54869-568a-4b10-9d34-adce843f8844
+48,Asthma,Crona,Regan,2010-08-26,1938,Female,11,8,976 Murphy Skyway Apt 98,Newburyport,MA,146a696b-b2a6-4c06-b0b0-688e5d6a905a
+2,Covid,Hartmann,Rico,1972-03-17,2151,Male,49,8,436 Zboncak Orchard Apt 54,Revere,MA,abbae750-d6a8-4fa9-a3d7-8488d4294be7
+68,Asthma,Hamill,Lucio,1992-07-17,1201,Male,29,9,491 Rohan Corner Unit 10,Pittsfield,MA,e113f21d-378e-476d-87c6-b7f1670b8df2
+91,Asthma,Murazik,Mario,1951-10-09,1801,Female,70,8,298 Parisian Road Unit 27,Reading,MA,7cc95649-27c5-4bed-a6a5-979b3c82f798
+77,Asthma,Kuhlman,Jarvis,1956-07-04,2128,Male,65,13,1020 Leannon Crossing,Boston,MA,9fecbe8a-e38a-4393-ac61-51e774f1a9cd
+37,Asthma,Botsford,Olen,2006-02-20,1752,Male,15,8,768 Heaney Extension,Southborough,MA,806ea971-8ad5-46fb-b56b-1c68ce1a441c
+75,Asthma,Jacobson,Burl,1984-02-16,1938,Male,37,8,813 Kuhic Throughway Unit 27,Ipswich,MA,15d4a7d3-af85-4852-82e0-f40fec4c5c4a
+33,Asthma,Bauch,Shannon,1919-05-08,1832,Female,102,9,376 Armstrong Common Suite 48,Haverhill,MA,6c880fe1-a42f-4117-a644-89c13dab1b80
+127,Asthma,Wunsch,Johnie,1973-11-23,1604,Male,48,13,838 Witting Highlands Unit 71,Worcester,MA,95c261c4-130a-4713-ba68-630a5b4f57e4
+10,Diabetes,Baeza,Clara,1972-07-10,1057,Female,49,8,962 Roberts Glen,Monson,MA,d4b6cb7a-4f77-45b7-a532-33345df6ccf8
+133,No condition,Hansen,Rigoberto,1999-09-06,1035,Male,22,1,"123 Main St, Apt 4",Cambridge,MA,498d30c5-7b1b-41cc-8d30-939675b60755
+8,Covid,Salazar,Eloisa,1998-09-15,2124,Female,23,6,455 Boyer Crossing Unit 19,Boston,MA,a57b2747-09c4-438b-a87a-a629aab5134c
+56,Asthma,Ernser,Santana,1979-09-29,2351,Female,42,13,926 Deckow Road,East Bridgewater,MA,5db8f07a-49cb-4a1f-b377-046326a94a1c
+126,Asthma,Wisoky,Carisa,1988-08-13,1843,Female,33,9,425 Sanford Rest,Lawrence,MA,5e0983de-27b4-4478-91f3-5c9d688bc84a
+19,Diabetes,Valadez,Elvira,1970-12-26,2215,Female,50,19,703 Ankunding Trail Unit 45,Boston,MA,a50e4870-4c5f-46d3-ae57-3541febb8a16
+114,Asthma,Senger,Clark,1951-12-29,2771,Male,69,8,259 Hagenes Rue,Rehoboth,MA,f9b909b0-c301-4db1-9c30-a5c2fdd0f3e8
+134,No condition,Walter,Gilda,2017-09-24,1540,Female,4,1,"123 Main St, Apt 4",Cambridge,MA,faddebe9-e2d1-4c9f-92c3-0ec72462af3c
+41,Asthma,Bruen,Terrence,1984-01-12,2143,Male,37,9,111 Schmeler Rest Apt 60,Somerville,MA,306fbd95-3e1d-40f3-9d92-f97c594ffc86
+46,Asthma,Corwin,Arlean,1997-06-15,2122,Female,24,11,686 Marquardt Parade,Boston,MA,17635591-69a4-4273-9183-543063586af1
+100,Asthma,Pollich,Josh,1985-09-19,1610,Male,36,8,924 Homenick Hollow Apt 94,Worcester,MA,cf795499-c9b0-4bbc-9933-3280f8717ce3
+122,Asthma,Turner,Jerrod,1960-07-25,1890,Male,61,10,1024 Abbott Orchard,Woburn,MA,b82aab28-c7bd-4659-a384-1053551bb243
+72,Asthma,Heidenreich,Justin,2016-07-21,1581,Male,5,8,543 Schumm Walk,Westborough,MA,3311b2d6-3732-4e93-904a-1aa1d2540e0e
+116,Asthma,Skiles,Jesusita,1950-12-20,2019,Female,70,9,588 O'Reilly Haven,Bellingham,MA,07edfa02-26cd-4d0d-b63c-b558accb8f88
+113,Asthma,Schultz,Cindi,1976-02-20,1040,Female,45,11,829 Hagenes Ville Unit 7,Holyoke,MA,b41241d8-c212-44f9-90a5-137344bee810
+97,Asthma,Pacocha,Emil,1971-11-28,1748,Male,50,11,1002 Cronin Drive,Hopkinton,MA,254684d2-8146-4fed-9c4a-c51ae08e5c82
+125,Asthma,Watsica,Natacha,2010-02-24,1901,Female,11,8,659 Bahringer Dam Apt 38,Lynn,MA,32d208c3-8149-4978-a150-6aa6e0fb19e2
+59,Asthma,Feeney,Bridgett,2011-09-14,1505,Female,10,8,426 Keebler Lodge Suite 80,Worcester,MA,d93d213b-6708-4702-9d98-2190fb1d8fa2
+11,Diabetes,Bruen,Tony,1974-06-13,1850,Male,47,7,646 Frami Meadow,Lowell,MA,e705a2f7-4405-4029-94da-a57fe6210e7d
+73,Asthma,Heller,Jude,1980-07-31,1747,Male,41,9,114 Murazik Drive Unit 58,Hopedale,MA,6e54a618-2bd2-4108-867d-9f8e93a6a5f6
+62,Asthma,Fritsch,Julian,1911-02-10,2446,Male,110,14,296 Koelpin Gate Suite 46,Brookline,MA,81068f91-eb98-4f33-8751-d8582545d9c1
+132,No condition,Hermiston,Ariel,1966-01-18,2138,Male,55,1,"123 Main St, Apt 4",Cambridge,MA,17a67bc3-193d-4572-b1ed-92a4ec2e59ec
+27,Lung Cancer,Predovic,Boris,1966-08-28,1840,Male,55,7,717 Pfannerstill Fort Suite 23,Lawrence,MA,c2f2c4eb-e129-4d5b-b490-cdd272b6dce7
+104,Asthma,Rice,Rima,1992-07-30,2130,Female,29,8,545 Bernhard Plaza Suite 14,Boston,MA,6c33374b-77d5-4149-95af-29f5e30cac57
+30,Asthma,Arteaga,Gerardo,1973-11-13,1540,Male,48,16,261 Koepp Fort Suite 74,Oxford,MA,516a3bd8-9f4b-4835-b554-9f747d8d0a2e
+20,Lung Cancer,Beahan,Roscoe,1971-08-09,2215,Male,50,10,431 Sporer Grove Suite 3,Boston,MA,4de6e547-e0c4-4397-b9e5-5245f25d0666
+110,Asthma,Schimmel,Keenan,1945-12-24,2474,Male,75,12,496 Kuhic Dale,Arlington,MA,a96c1cc0-5435-4d64-b871-37f88cd60333
+67,Asthma,Gorczany,Joey,1965-05-28,1507,Male,56,8,520 Bergnaum Estate Unit 53,Sturbridge,MA,4be8cc65-e72c-4c81-8954-f3647f4da5c7
+92,Asthma,Murphy,Darwin,1989-08-29,2360,Male,32,14,522 Paucek Trafficway Suite 21,Plymouth,MA,0740a471-5d68-4c73-a408-9e88058fba2b
+35,Asthma,Bergnaum,Roman,1970-02-14,1460,Male,51,9,316 Nienow Fort,Littleton,MA,93b9f077-9a20-4c8a-b499-6b14ca9b4c27
+109,Asthma,Sawayn,David,1989-08-19,1940,Male,32,9,771 Paucek Station,Peabody,MA,749b5d4c-2464-4be8-8d21-b3ffa86a53ee
+135,No condition,Collado,Miguel Ángel,1979-01-23,2332,Male,42,1,"123 Main St, Apt 4",Cambridge,MA,109a2009-5ffd-455b-a3e3-66f358d16d6a
+53,Asthma,Ebert,Particia,1944-03-31,2324,Female,77,16,613 Kilback Ville,Bridgewater,MA,d3e2c1a1-f3f2-4316-aa27-e4b7b27ba8ba
+34,Asthma,Bednar,Sena,1920-12-09,2360,Female,100,14,807 Larkin Divide Unit 34,Plymouth,MA,5ee3cad6-9086-4caf-9159-b2a676828fa4
+98,Asthma,Paucek,Charmain,1954-07-01,2025,Female,67,19,123 Carroll Mission,Cohasset,MA,6e121522-24f7-4102-b38d-d8ba8aa22b58
+81,Asthma,Lang,Mathew,1999-08-27,2210,Male,22,8,685 Greenholt Esplanade,Boston,MA,ca6b1a23-8b45-4f2d-a9b9-3d57f15c8e83
+24,Lung Cancer,Mann,David,1967-06-05,2043,Male,54,12,491 Block Club,Hingham,MA,0777653d-5113-4c61-bd2c-d5a29387449a
+107,Asthma,Salcedo,Rebeca,1957-03-28,2152,Female,64,12,228 Cummings Throughway,Revere,MA,a0fd45a3-2579-429e-bec3-e7b479939d33
+60,Asthma,Feeney,Chance,1979-08-21,1583,Male,42,13,870 Bruen Viaduct Unit 18,Worcester,MA,5f7031ea-e45d-41c5-8d7e-35f2fb98ef29
+95,Asthma,OHara,Chere,1988-12-05,2128,Female,32,9,695 Franecki Route,Boston,MA,f8c253e9-c556-4c3a-94c1-1e87a5aeebcc
+29,Lung Cancer,Schmitt,Emilia,1963-01-10,2149,Female,58,10,899 Lind Dale Unit 59,Chelsea,MA,806a6397-e95b-4f17-b11b-d97a1f354223
+82,Asthma,Lebsack,Renetta,1993-03-16,1840,Female,28,8,345 Tillman Lodge Apt 38,Lawrence,MA,0c9b61d8-79da-4f25-837a-a14256ef4c78
+74,Asthma,Heller,Dennis,2018-06-22,2134,Male,3,8,1099 Kohler Junction,Boston,MA,77687178-a9b0-4bf5-a8dc-0e334c02a4e5
+58,Asthma,Fahey,Walter,1963-03-13,1841,Male,58,9,424 Towne Trail,Lawrence,MA,23f3a569-b1fa-470c-81f7-e730e4f21430
+111,Asthma,Schmeler,Alex,2020-08-16,1749,Female,1,4,737 Kub Meadow Apt 48,Hudson,MA,caa72261-0969-4a93-b37d-b41bebd6daaf
+50,Asthma,Donnelly,Eugene,1985-09-27,1583,Male,36,16,930 Hammes Highlands Suite 87,West Boylston,MA,ecc70d60-25b4-4638-a46f-66c9e54e7fdb
+26,Lung Cancer,Ondricka,Lurline,1971-02-27,1516,Female,50,13,370 Koelpin Route Suite 34,Sutton,MA,2d423123-1aa1-43b5-94a0-969de72af959
+43,Asthma,Christiansen,Lorene,1981-12-22,2465,Female,39,9,987 Schamberger Bay Suite 1,Newton,MA,c90748df-4d0c-4be6-98be-48771e86ebae
+22,Lung Cancer,Klein,Quinton,1967-10-20,1913,Male,54,7,629 Schuster Common,Amesbury,MA,6426376f-f12a-48ef-96a3-6edd7ed2002c
+39,Asthma,Boyle,Rozanne,1957-09-22,2191,Female,64,8,1092 Rippin Haven,Weymouth,MA,4c9ff13c-6a5b-40ab-b042-5913786d524e
+115,Asthma,Shanahan,Alanna,1967-07-11,1607,Female,54,12,709 Walter Terrace,Worcester,MA,67989b41-002b-4a37-857d-b783aa9c71c2
+120,Asthma,Treutel,Huey,2004-12-30,2351,Male,16,8,500 Zieme Underpass,Brockton,MA,994251b4-bab7-4016-b5ed-316c272c20b0
+45,Asthma,Corwin,Casey,1941-08-19,1527,Female,80,15,883 Harber Ramp,Millbury,MA,0071b621-318f-4a33-9359-4eb0a3de82cb
+13,Diabetes,Kunde,Rutha,1980-02-14,2184,Female,41,16,156 Dach Trafficway,Quincy,MA,9b3bb911-0b70-42cc-a5a2-3028b399f4e7
+52,Asthma,Dooley,Deane,1977-06-15,1013,Female,44,14,190 Shields Course Suite 64,Springfield,MA,32c62c30-46ff-49a0-89c5-a256038eacdb
+123,Asthma,Valencia,Jesús,2017-04-08,2019,Male,4,8,998 Halvorson Lane,Medway,MA,cbb37284-5393-49f7-b0ee-b69ca24a12fb
+23,Lung Cancer,Kreiger,Alan,1969-10-28,1969,Male,52,7,663 Dickinson Light,Rowley,MA,259454da-8fab-42a1-8408-7f520883a0bb
+31,Asthma,Bartoletti,Lacie,1961-06-20,2148,Female,60,8,342 Brekke Mission,Malden,MA,2500c794-227c-4ff3-928d-0e02f6954075
+108,Asthma,Sanabria,Diego,1957-07-25,2021,Male,64,9,1084 Fadel Skyway Apt 42,Norwood,MA,a6c9d9f2-026b-4a6b-a65a-d8f09e797e67
+1,Covid,Bogisich,Grant,1995-09-05,2645,Male,26,8,710 Batz Estate,Harwich,MA,e17e9d80-e374-4c43-b6ef-5c74e2310768
+124,Asthma,Walter,Caitlyn,1989-07-15,1301,Female,32,9,644 Powlowski Trafficway,Bernardston,MA,38d148c0-5b24-442a-8fa4-aa17654dccfb
+9,Covid,Spinka,Wilbert,2019-07-28,1915,Male,2,6,420 Schneider Grove,Beverly,MA,0f3b24b0-7e8d-4645-a8c6-4de09149d2f7
+76,Asthma,Kovacek,Bernie,2019-08-13,2641,Male,2,8,352 Emmerich Trail,Dennis,MA,5f6e9fd8-7353-4816-9460-fdb33e919a3b
+57,Asthma,Fadel,Layla,1967-03-17,1077,Female,54,12,143 Swift Ferry Suite 69,Southwick,MA,245a387e-cd6a-4f83-9008-931c5da445f9
+71,Asthma,Heaney,Bryon,1954-01-05,2110,Male,67,11,813 Ruecker Lane,Boston,MA,0496c8ab-a239-46e7-b96a-ac0cfed177d5
+7,Covid,OConner,Anthony,1942-03-22,2136,Male,79,11,1085 Kub Wynd,Boston,MA,23b786be-e348-4948-b474-b428d362d04a
+21,Lung Cancer,Bradtke,Chery,1970-12-14,2169,Female,50,7,999 Rosenbaum Brook,Quincy,MA,e33e9437-2e6d-4702-99da-ec82cbe6fcb8
+0,Covid,Aufderhar,Federico,1981-07-12,2779,Male,40,7,237 Hegmann Avenue,Berkley,MA,0a126db2-271b-42cf-9a48-993bdc8b0b97
+128,Asthma,Zemlak,Bryce,1967-12-03,1606,Male,53,13,286 Leuschke Branch,Worcester,MA,26f66258-b887-424e-9a5a-5c2f222defa1
+63,Asthma,Garza,Pilar,1938-03-30,1835,Female,83,9,169 Mayer Rapid,Haverhill,MA,ec615e8b-536c-419b-9556-7f391a4cb594
+16,Diabetes,Purdy,Jamar,1958-10-03,1331,Male,63,13,267 Crona Fork Unit 88,Athol,MA,b20c72fb-c48f-4446-a6d4-698806616f4b
+61,Asthma,Feil,Rachel,1981-01-19,2187,Female,40,8,953 Fritsch Parade,Milton,MA,c3fae46d-0c38-4a41-bb2d-025f7f1068f0
+84,Asthma,Lynch,Rena,2020-08-04,2113,Female,1,4,792 Zieme Extension Unit 72,Boston,MA,de33ba46-248c-4273-a556-8f6a99e2d430
+70,Asthma,Hayes,Jesus,1973-01-28,1830,Male,48,8,620 Wiza Estate Unit 12,Haverhill,MA,117fefec-f4aa-40a0-9446-1658d05a750e
+130,No condition,Auer,Denis,1971-02-16,1570,Male,50,1,"123 Main St, Apt 4",Cambridge,MA,7e9979da-272e-40ad-99ee-841aef1cc6a6
+129,Asthma,Zemlak,Valentin,1992-08-10,1864,Male,29,8,661 Schoen Heights,Cambridge,MA,6e6dc63b-ed7e-4b6c-b98a-f4925314a2a4
+38,Asthma,Boyer,Vicente,1964-06-19,2145,Male,57,15,107 Macejkovic Dam Unit 8,Cambridge,MA,0ca968c8-946e-4dbd-bc9c-65f30ee532f5
+69,Asthma,Harber,Beth,1999-10-05,1583,Female,22,15,920 Pfannerstill Course,Worcester,MA,4b05601e-16f0-443c-9963-d1576858fc9a
+103,Asthma,Reynolds,Cathey,2016-09-08,2115,Female,5,8,117 Davis Approach,Boston,MA,ded66e72-94da-4cf3-aeef-91492b66856d
+28,Lung Cancer,Reichert,Lou,1973-03-10,1440,Male,48,7,149 Wolf Dam Suite 92,Gardner,MA,61982fc2-ad32-49cd-ad79-69855d78431d
+117,Asthma,Spinka,Loreen,1952-02-25,1118,Female,69,15,348 Powlowski Alley Apt 8,Springfield,MA,f67627ea-d46c-4ad4-858c-273f1aef1e1f
+64,Asthma,Gaylord,Dierdre,1986-02-02,1721,Female,35,9,257 Harber Common,Framingham,MA,4c40a25d-fa7d-4225-9603-f815eb309ba8
+18,Diabetes,Tromp,Buck,1963-05-23,2066,Male,58,9,840 Reichel Ranch Suite 22,Scituate,MA,b97171e1-cdc2-4b00-b8aa-82bb2366d594
+25,Lung Cancer,Oberbrunner,Teddy,1965-08-24,2359,Male,56,7,630 Stamm Route,Pembroke,MA,4d8231a0-8651-42cf-9759-18d8c5c86b27
+51,Asthma,Dooley,Meryl,1945-01-13,1880,Female,76,11,864 Dickens Divide,Wakefield,MA,218d1c4b-55a5-49d2-9f50-53208e2d6256
+80,Asthma,Lakin,Loren,2006-07-27,1536,Male,15,11,735 Bayer Station,Grafton,MA,7c3bd0a5-d6a4-48c7-a268-34f490fd887b
+55,Asthma,Emmerich,Caren,1986-08-03,2452,Female,35,8,247 Weissnat Rapid Apt 69,Waltham,MA,9c0fac31-2f9e-439c-baed-c1b086390d03
+94,Asthma,Nitzsche,Norris,1997-12-17,2481,Male,23,8,514 Steuber Crossroad,Natick,MA,8efbc497-194a-4fe2-a5c3-58dcbf43e405
+17,Diabetes,Schneider,Demetrice,1968-07-16,1901,Female,53,13,104 Conn Annex,Lynn,MA,b1f3e6de-110f-4f47-bd4a-b0207d49fb8c
+5,Covid,Metz,Candyce,2019-07-16,1742,Female,2,6,440 Rohan Estate Suite 17,Concord,MA,e051bc97-039a-47b7-8f7c-29fa078643f3

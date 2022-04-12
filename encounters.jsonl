@@ -1,0 +1,437 @@
+{"patient_id":"0777653d-5113-4c61-bd2c-d5a29387449a","encounters":"icu","start":1518076946000,"end":1555738992000,"encounter_id":"1ca9899f-ae88-4532-95c0-3be6ecc20fc6"}
+{"patient_id":"0777653d-5113-4c61-bd2c-d5a29387449a","encounters":"office visit","start":1611453688000,"end":1618150699000,"encounter_id":"e0ad1597-3dee-4640-9dfa-8d6f4c69b6e3"}
+{"patient_id":"c3fae46d-0c38-4a41-bb2d-025f7f1068f0","encounters":"emergency room","start":1609553568000,"end":1632428625000,"encounter_id":"736549ac-1ab9-4b27-9ade-4af43e460561"}
+{"patient_id":"32c62c30-46ff-49a0-89c5-a256038eacdb","encounters":"office visit","start":1606816963000,"end":1606839688000,"encounter_id":"56852911-d6cf-48d6-89a4-4bc79f127007"}
+{"patient_id":"c3fae46d-0c38-4a41-bb2d-025f7f1068f0","encounters":"office visit","start":1615970396000,"end":1626342842000,"encounter_id":"3e0d5b70-31b5-4618-94cc-82434ea478f0"}
+{"patient_id":"806ea971-8ad5-46fb-b56b-1c68ce1a441c","encounters":"office visit","start":1565135187000,"end":1587879669000,"encounter_id":"ef365ec0-c2e6-4c29-9c3a-7d4a37644959"}
+{"patient_id":"32d208c3-8149-4978-a150-6aa6e0fb19e2","encounters":"office visit","start":1595581060000,"end":1633341527000,"encounter_id":"2edec613-8e15-4d69-9525-851f74bf8543"}
+{"patient_id":"38d148c0-5b24-442a-8fa4-aa17654dccfb","encounters":"hospitalization","start":1559920054000,"end":1576430819000,"encounter_id":"f5e855e2-bb60-48dd-8741-422fb9a38f0e"}
+{"patient_id":"c3fae46d-0c38-4a41-bb2d-025f7f1068f0","encounters":"office visit","start":1573911077000,"end":1633625690000,"encounter_id":"1df0fd47-f484-4094-b140-741595a177d1"}
+{"patient_id":"e705a2f7-4405-4029-94da-a57fe6210e7d","encounters":"office visit","start":1538679405000,"end":1632892346000,"encounter_id":"30bd6610-d0c1-43ae-b048-2a40c0a62357"}
+{"patient_id":"919e46d9-ee04-49e4-9386-6014b9326b1c","encounters":"outpatient procedure","start":1545246275000,"end":1551532805000,"encounter_id":"d64c7ec1-3f54-4042-8a45-72ec7392720c"}
+{"patient_id":"cbb37284-5393-49f7-b0ee-b69ca24a12fb","encounters":"hospitalization","start":1626153360000,"end":1639334230000,"encounter_id":"5146cb5c-03ef-4d99-b96a-1cf37541853f"}
+{"patient_id":"290f9fe9-473e-403f-9510-a9c66882dd2d","encounters":"outpatient procedure","start":1555116252000,"end":1591889227000,"encounter_id":"10a98d05-a5e6-4195-87e7-35b7caa1d2c8"}
+{"patient_id":"9a0b0e5a-7ee0-4de0-9bd5-52e3ded8a49c","encounters":"emergency room","start":1574096743000,"end":1582645590000,"encounter_id":"dd9361a8-b8e5-4991-9804-fffc9290f776"}
+{"patient_id":"e17e9d80-e374-4c43-b6ef-5c74e2310768","encounters":"outpatient procedure","start":1624094137000,"end":1638852406000,"encounter_id":"721b32b6-c8fd-49d0-9648-0e63fe33b8df"}
+{"patient_id":"b0e06260-7efa-4a6e-913d-6c0742aab369","encounters":"call for advice","start":1536350398000,"end":1601955409000,"encounter_id":"dd949b80-2b00-4042-b06e-8e7a80b793fc"}
+{"patient_id":"caa72261-0969-4a93-b37d-b41bebd6daaf","encounters":"vaccination","start":1548162561000,"end":1571442205000,"encounter_id":"560c4881-621b-492b-8408-cc5d9d7b89cb"}
+{"patient_id":"994251b4-bab7-4016-b5ed-316c272c20b0","encounters":"office visit","start":1612599480000,"end":1623730325000,"encounter_id":"612f343f-76fa-4a49-ba74-949abfdae1a5"}
+{"patient_id":"95c261c4-130a-4713-ba68-630a5b4f57e4","encounters":"office visit","start":1528328120000,"end":1639765188000,"encounter_id":"2175231f-0300-468f-80a3-218f364723d4"}
+{"patient_id":"49cd5e3d-a0a3-4bff-a9ad-38778967a0a1","encounters":"office visit","start":1608265934000,"end":1616781469000,"encounter_id":"20c7df75-3125-45c9-8f2f-aa5d64a4cc41"}
+{"patient_id":"266ddba6-90ca-4a71-b95e-4041ac209b57","encounters":"office visit","start":1535474386000,"end":1597495919000,"encounter_id":"5cd0cdb2-20c4-4392-95e3-254b22258fc3"}
+{"patient_id":"a0fd45a3-2579-429e-bec3-e7b479939d33","encounters":"office visit","start":1594412395000,"end":1602646608000,"encounter_id":"73013f0f-2116-4e9a-aaf5-773eddf10b33"}
+{"patient_id":"1bbbae3a-0e03-4615-87e8-02b474c70348","encounters":"office visit","start":1610201192000,"end":1619061552000,"encounter_id":"3b3f3425-cdd2-4caf-bd25-68db24b560fc"}
+{"patient_id":"5f6e9fd8-7353-4816-9460-fdb33e919a3b","encounters":"office visit","start":1613619622000,"end":1630120889000,"encounter_id":"5fa8283d-83ed-40d5-b257-41bbc85f073b"}
+{"patient_id":"d16def01-4bda-4c60-9ad6-a9fdb7f0e198","encounters":"office visit","start":1575510766000,"end":1578448359000,"encounter_id":"c3af9ef6-1f21-4d5a-a553-fc6dcee78bac"}
+{"patient_id":"175774f3-c1c9-4da2-8714-ad1d526f7ebe","encounters":"outpatient procedure","start":1610045448000,"end":1638491483000,"encounter_id":"34c61498-30c0-494c-ac69-899cf020e6a4"}
+{"patient_id":"d3e2c1a1-f3f2-4316-aa27-e4b7b27ba8ba","encounters":"office visit","start":1546996945000,"end":1574503220000,"encounter_id":"bf16a5df-7041-45da-9019-b1159c499b80"}
+{"patient_id":"32d208c3-8149-4978-a150-6aa6e0fb19e2","encounters":"office visit","start":1522545172000,"end":1623662801000,"encounter_id":"e3edab9b-3f9d-4d0e-b0a1-98473aa5d5bf"}
+{"patient_id":"ecc70d60-25b4-4638-a46f-66c9e54e7fdb","encounters":"office visit","start":1637656541000,"end":1640153744000,"encounter_id":"15ab427d-a3c2-4cc5-9150-6af8262d549b"}
+{"patient_id":"d4b6cb7a-4f77-45b7-a532-33345df6ccf8","encounters":"hospitalization","start":1534747576000,"end":1537229855000,"encounter_id":"56861c23-e663-4f3e-afc7-6284fae34d60"}
+{"patient_id":"5db8f07a-49cb-4a1f-b377-046326a94a1c","encounters":"office visit","start":1601096694000,"end":1616746120000,"encounter_id":"051a74da-2fa0-4b83-a04f-1c63f347876b"}
+{"patient_id":"6e54a618-2bd2-4108-867d-9f8e93a6a5f6","encounters":"vaccination","start":1537996159000,"end":1552620300000,"encounter_id":"6083f013-28e6-466e-8cf2-6240fc777763"}
+{"patient_id":"ded66e72-94da-4cf3-aeef-91492b66856d","encounters":"hospitalization","start":1617321653000,"end":1627101384000,"encounter_id":"d8e7d700-728f-4bb0-83c9-b0f58fe2c3ee"}
+{"patient_id":"0777653d-5113-4c61-bd2c-d5a29387449a","encounters":"office visit","start":1604857877000,"end":1628706643000,"encounter_id":"95c8081b-1981-4ce6-9a58-bab711d9dd9f"}
+{"patient_id":"07edfa02-26cd-4d0d-b63c-b558accb8f88","encounters":"office visit","start":1625676902000,"end":1625985741000,"encounter_id":"5f9a8a08-4e37-48b8-aa34-be4afd1698b8"}
+{"patient_id":"175774f3-c1c9-4da2-8714-ad1d526f7ebe","encounters":"call for advice","start":1553680178000,"end":1583640241000,"encounter_id":"dcf346cd-9e74-4b0e-ad14-a676caa9fd6d"}
+{"patient_id":"e113f21d-378e-476d-87c6-b7f1670b8df2","encounters":"office visit","start":1559952613000,"end":1610559826000,"encounter_id":"8d7f44f8-ef04-4588-83e3-ae41ea392e49"}
+{"patient_id":"329a8153-22f2-4636-8916-72d124aefbf6","encounters":"office visit","start":1601369421000,"end":1618038526000,"encounter_id":"0750cb07-b643-4db6-b516-0da319f7db42"}
+{"patient_id":"17a67bc3-193d-4572-b1ed-92a4ec2e59ec","encounters":"office visit","start":1580118317000,"end":1598743577000,"encounter_id":"ba02c1d9-85b3-4afe-b312-39c415597db8"}
+{"patient_id":"4b05601e-16f0-443c-9963-d1576858fc9a","encounters":"hospitalization","start":1566990705000,"end":1580051771000,"encounter_id":"97a4383c-8f40-45b8-9690-b4f8c93110f4"}
+{"patient_id":"9b3bb911-0b70-42cc-a5a2-3028b399f4e7","encounters":"office visit","start":1602400132000,"end":1602471836000,"encounter_id":"26670268-4468-4e91-a2ac-e2c3345c3732"}
+{"patient_id":"c90748df-4d0c-4be6-98be-48771e86ebae","encounters":"hospitalization","start":1549773693000,"end":1621162603000,"encounter_id":"587efb26-d917-4ede-8eb1-dbf95f468281"}
+{"patient_id":"949b34d8-38a2-475e-b473-01545ff11483","encounters":"office visit","start":1638009002000,"end":1640626851000,"encounter_id":"1555cd4d-4831-4194-90d8-389636f17ef8"}
+{"patient_id":"f9b909b0-c301-4db1-9c30-a5c2fdd0f3e8","encounters":"office visit","start":1582300612000,"end":1619243717000,"encounter_id":"16f8b888-c578-45f3-9a28-8fb73cf0ab5f"}
+{"patient_id":"e17e9d80-e374-4c43-b6ef-5c74e2310768","encounters":"outpatient procedure","start":1525644433000,"end":1538506714000,"encounter_id":"e75eb5e4-e7e4-40ca-999a-146de2367662"}
+{"patient_id":"6426376f-f12a-48ef-96a3-6edd7ed2002c","encounters":"office visit","start":1521205214000,"end":1540054782000,"encounter_id":"61f6c13f-dcf5-49b4-9a4a-7f85534c6c64"}
+{"patient_id":"0740a471-5d68-4c73-a408-9e88058fba2b","encounters":"hospitalization","start":1527214974000,"end":1595141552000,"encounter_id":"62e656d6-70d6-499f-9d8b-d57ea67a218d"}
+{"patient_id":"254684d2-8146-4fed-9c4a-c51ae08e5c82","encounters":"vaccination","start":1592795008000,"end":1606614612000,"encounter_id":"dd0ecd33-b622-498e-a8fc-4fda6df0a66c"}
+{"patient_id":"32c62c30-46ff-49a0-89c5-a256038eacdb","encounters":"outpatient procedure","start":1591447533000,"end":1634868944000,"encounter_id":"9186d312-fa06-4ee4-ab30-b835b1a31b23"}
+{"patient_id":"ca6b1a23-8b45-4f2d-a9b9-3d57f15c8e83","encounters":"outpatient procedure","start":1627529655000,"end":1635601832000,"encounter_id":"883f1ba7-9951-4ae5-8fcf-c2743c49004c"}
+{"patient_id":"6c880fe1-a42f-4117-a644-89c13dab1b80","encounters":"office visit","start":1596010366000,"end":1638442170000,"encounter_id":"988bb7e9-c6ec-4a57-b14b-abfb9a4d61c5"}
+{"patient_id":"7c3bd0a5-d6a4-48c7-a268-34f490fd887b","encounters":"hospitalization","start":1560131670000,"end":1632612155000,"encounter_id":"f22ce365-8cf6-46f1-afbf-4c3df7b33a28"}
+{"patient_id":"7c3bd0a5-d6a4-48c7-a268-34f490fd887b","encounters":"office visit","start":1546144418000,"end":1618104598000,"encounter_id":"739cf760-6db2-414d-9e70-6f42aa1b8eb2"}
+{"patient_id":"5db8f07a-49cb-4a1f-b377-046326a94a1c","encounters":"office visit","start":1620114858000,"end":1640701255000,"encounter_id":"8e643943-5a1c-4d45-a1b4-55d56e746b23"}
+{"patient_id":"4c40a25d-fa7d-4225-9603-f815eb309ba8","encounters":"office visit","start":1582526596000,"end":1605624451000,"encounter_id":"9339dc80-b5ee-446b-b72f-b8680be4092e"}
+{"patient_id":"23d54869-568a-4b10-9d34-adce843f8844","encounters":"call for advice","start":1556913465000,"end":1573013042000,"encounter_id":"a71b2e36-4b68-4a0e-919f-9f9511d2db68"}
+{"patient_id":"6c33374b-77d5-4149-95af-29f5e30cac57","encounters":"office visit","start":1586530033000,"end":1630478694000,"encounter_id":"79fbd185-d9f1-4a7d-96c6-81fc4f4fd24c"}
+{"patient_id":"3311b2d6-3732-4e93-904a-1aa1d2540e0e","encounters":"office visit","start":1609939444000,"end":1622278200000,"encounter_id":"8abe49cc-7507-4337-80a5-418f34dcbb6e"}
+{"patient_id":"f21ffd22-a3ff-4f3c-ba77-8493ea92805a","encounters":"hospitalization","start":1602156812000,"end":1612550412000,"encounter_id":"391a3919-b549-4d12-8756-f655f61d8f29"}
+{"patient_id":"07edfa02-26cd-4d0d-b63c-b558accb8f88","encounters":"office visit","start":1542527872000,"end":1588386099000,"encounter_id":"6e083343-e4df-4e56-9766-2fba7763857d"}
+{"patient_id":"0777653d-5113-4c61-bd2c-d5a29387449a","encounters":"office visit","start":1626362880000,"end":1632781829000,"encounter_id":"26482d10-4a04-4117-9948-7d463bfdff53"}
+{"patient_id":"32c62c30-46ff-49a0-89c5-a256038eacdb","encounters":"outpatient procedure","start":1588683783000,"end":1620833081000,"encounter_id":"5d1e341c-ef27-478c-b98e-c2f3492fd27a"}
+{"patient_id":"6e3275c9-b0a8-4f71-a156-33083f529f18","encounters":"call for advice","start":1534742369000,"end":1581184016000,"encounter_id":"73ef214c-d9eb-4b83-86c6-b61543477c1d"}
+{"patient_id":"2d423123-1aa1-43b5-94a0-969de72af959","encounters":"office visit","start":1525365612000,"end":1545035733000,"encounter_id":"66296e6b-028f-4007-a25b-bd35a5f4a3d1"}
+{"patient_id":"0115f061-a430-4ff9-adc4-e2827e0fddf4","encounters":"call for advice","start":1567038917000,"end":1625058673000,"encounter_id":"ae056182-7488-47c5-99ad-7e3dd337a1b4"}
+{"patient_id":"77687178-a9b0-4bf5-a8dc-0e334c02a4e5","encounters":"office visit","start":1566510111000,"end":1602566378000,"encounter_id":"a85a6772-db54-4b71-8e47-37959b4142eb"}
+{"patient_id":"5db8f07a-49cb-4a1f-b377-046326a94a1c","encounters":"hospitalization","start":1547889852000,"end":1608678522000,"encounter_id":"1908ce42-e418-4f28-819e-830e9e7ee3ae"}
+{"patient_id":"e705a2f7-4405-4029-94da-a57fe6210e7d","encounters":"office visit","start":1582202176000,"end":1611759208000,"encounter_id":"412d54ce-6e07-4b8b-a351-d52f2d4cd41c"}
+{"patient_id":"8f9ad747-b7ad-40f5-85d9-c40dcd50924a","encounters":"hospitalization","start":1632988461000,"end":1638781526000,"encounter_id":"e640bd25-12a1-4249-be59-eb072146c6dd"}
+{"patient_id":"591b98be-40e0-4d91-ad9a-bd453b28d851","encounters":"office visit","start":1585091092000,"end":1630275369000,"encounter_id":"b585de1d-3d6a-4f3d-9400-dd8d17f7c157"}
+{"patient_id":"0f3b24b0-7e8d-4645-a8c6-4de09149d2f7","encounters":"outpatient procedure","start":1578549002000,"end":1614285319000,"encounter_id":"6a47cdba-3e34-42ef-b11f-ae4e5cfd44fb"}
+{"patient_id":"a566ca01-a615-4445-8061-89dbc1278d83","encounters":"office visit","start":1547979957000,"end":1585127036000,"encounter_id":"ebf403ae-ebce-4f78-aae4-f11c46895915"}
+{"patient_id":"e33e9437-2e6d-4702-99da-ec82cbe6fcb8","encounters":"office visit","start":1540504616000,"end":1585320881000,"encounter_id":"490bbe2b-f68c-4850-bed4-6344f4b2bf58"}
+{"patient_id":"4b05601e-16f0-443c-9963-d1576858fc9a","encounters":"hospitalization","start":1555152599000,"end":1606206357000,"encounter_id":"444ca87c-a3f9-4462-a09a-057d70ecc611"}
+{"patient_id":"28bc926e-7703-4ef4-8fd8-0b1894a33641","encounters":"vaccination","start":1528745043000,"end":1587324586000,"encounter_id":"e526fd6f-8de4-4e44-aa0d-f9620b981a5f"}
+{"patient_id":"e113f21d-378e-476d-87c6-b7f1670b8df2","encounters":"icu","start":1532580922000,"end":1594351554000,"encounter_id":"b0c8a897-15cc-4ca9-8838-94fc7696374c"}
+{"patient_id":"ecc70d60-25b4-4638-a46f-66c9e54e7fdb","encounters":"office visit","start":1563829237000,"end":1569913289000,"encounter_id":"3a5f6ce5-670d-4df4-9562-b4338182123b"}
+{"patient_id":"245a387e-cd6a-4f83-9008-931c5da445f9","encounters":"outpatient procedure","start":1586702703000,"end":1638580394000,"encounter_id":"b1f966ea-2b3e-4bcf-94a0-dc308cc13ae9"}
+{"patient_id":"c2f2c4eb-e129-4d5b-b490-cdd272b6dce7","encounters":"outpatient procedure","start":1632706972000,"end":1634451681000,"encounter_id":"333fd611-2294-4119-b9d7-005677228c34"}
+{"patient_id":"32c62c30-46ff-49a0-89c5-a256038eacdb","encounters":"outpatient procedure","start":1634690311000,"end":1637010846000,"encounter_id":"3c2c5834-3c5a-44de-a33e-a35e0c6bdd8c"}
+{"patient_id":"254684d2-8146-4fed-9c4a-c51ae08e5c82","encounters":"vaccination","start":1552260589000,"end":1565050676000,"encounter_id":"66ae9dd7-386d-4bf1-8a7f-aff5b031c5f8"}
+{"patient_id":"26f66258-b887-424e-9a5a-5c2f222defa1","encounters":"office visit","start":1640409382000,"end":1640686727000,"encounter_id":"4370e703-db38-4479-98da-75a1df6ba910"}
+{"patient_id":"7cc95649-27c5-4bed-a6a5-979b3c82f798","encounters":"office visit","start":1598936505000,"end":1627990666000,"encounter_id":"50a6b957-aece-4497-a0a3-a0e1dff56cb0"}
+{"patient_id":"17635591-69a4-4273-9183-543063586af1","encounters":"outpatient procedure","start":1545479772000,"end":1629655140000,"encounter_id":"cd465077-5df2-45b5-bc00-3c5816e919c3"}
+{"patient_id":"245a387e-cd6a-4f83-9008-931c5da445f9","encounters":"office visit","start":1560156785000,"end":1606676503000,"encounter_id":"9f05ac95-ba6f-4714-88e2-76c5bbab7ed8"}
+{"patient_id":"ffa48192-6345-48c9-a91c-c336daf6f897","encounters":"emergency room","start":1558161587000,"end":1636996011000,"encounter_id":"610f5662-4cbe-4c62-9319-75031966d52b"}
+{"patient_id":"d93d213b-6708-4702-9d98-2190fb1d8fa2","encounters":"office visit","start":1594707976000,"end":1607815432000,"encounter_id":"8f1829b0-9269-4409-9d5f-02110268317a"}
+{"patient_id":"07edfa02-26cd-4d0d-b63c-b558accb8f88","encounters":"outpatient procedure","start":1580087903000,"end":1595678610000,"encounter_id":"215d33c8-2b23-40c2-9fba-4312ca09c358"}
+{"patient_id":"77687178-a9b0-4bf5-a8dc-0e334c02a4e5","encounters":"office visit","start":1523658437000,"end":1640919951000,"encounter_id":"a2af5a5d-3bc1-4427-8deb-2144b3734308"}
+{"patient_id":"ecc70d60-25b4-4638-a46f-66c9e54e7fdb","encounters":"call for advice","start":1594627314000,"end":1639543527000,"encounter_id":"53f22dba-8474-4826-ba45-f04d92636ef9"}
+{"patient_id":"4e8950f7-7766-4b6d-b685-cd28a84000ef","encounters":"emergency room","start":1593185668000,"end":1602057593000,"encounter_id":"1a3ebd0e-4afd-4f07-8076-e86184e06417"}
+{"patient_id":"26f66258-b887-424e-9a5a-5c2f222defa1","encounters":"hospitalization","start":1571290716000,"end":1574984291000,"encounter_id":"778aa176-a6b7-4a7c-85b0-52cdcd211fca"}
+{"patient_id":"c3fae46d-0c38-4a41-bb2d-025f7f1068f0","encounters":"hospitalization","start":1618472650000,"end":1624640968000,"encounter_id":"691db030-a28d-4554-8287-2c35adcf382d"}
+{"patient_id":"23d54869-568a-4b10-9d34-adce843f8844","encounters":"office visit","start":1597883988000,"end":1625306604000,"encounter_id":"0edfefa4-2b01-498d-9e40-0ee7b220cca7"}
+{"patient_id":"c24efd37-9918-4251-addf-9d896c646e06","encounters":"office visit","start":1570361955000,"end":1579864701000,"encounter_id":"ff989854-a70d-4880-90aa-b45aa49bc467"}
+{"patient_id":"faddebe9-e2d1-4c9f-92c3-0ec72462af3c","encounters":"office visit","start":1607495953000,"end":1612791310000,"encounter_id":"9cd91b5e-eb55-43b4-ae8e-d9953515abd1"}
+{"patient_id":"e17e9d80-e374-4c43-b6ef-5c74e2310768","encounters":"office visit","start":1570839110000,"end":1639700297000,"encounter_id":"7ef3ed90-4222-4abe-92d2-64fa90d97e70"}
+{"patient_id":"994251b4-bab7-4016-b5ed-316c272c20b0","encounters":"office visit","start":1637820821000,"end":1638095538000,"encounter_id":"5789f24c-a0c1-40a1-8cd8-557b4d42c886"}
+{"patient_id":"07edfa02-26cd-4d0d-b63c-b558accb8f88","encounters":"outpatient procedure","start":1522378062000,"end":1607155787000,"encounter_id":"e55028cb-8d6e-4a31-a3ee-52e41e452d4c"}
+{"patient_id":"1bbbae3a-0e03-4615-87e8-02b474c70348","encounters":"emergency room","start":1589426241000,"end":1640393078000,"encounter_id":"6e56e18a-9b4e-4b31-8104-98812095c50a"}
+{"patient_id":"c2f2c4eb-e129-4d5b-b490-cdd272b6dce7","encounters":"office visit","start":1601965649000,"end":1619345267000,"encounter_id":"50aef698-e3a2-406e-ad93-b32ae3d6281e"}
+{"patient_id":"28bc926e-7703-4ef4-8fd8-0b1894a33641","encounters":"call for advice","start":1515619074000,"end":1544038938000,"encounter_id":"b6f6ef60-74e7-4089-89e0-ae41cf31e553"}
+{"patient_id":"4e9208c7-51a3-4fdb-8aae-b98bc71bbf1b","encounters":"outpatient procedure","start":1523315738000,"end":1622887738000,"encounter_id":"b7e2e612-eaf0-48eb-a22a-16465b43fcbf"}
+{"patient_id":"95c261c4-130a-4713-ba68-630a5b4f57e4","encounters":"icu","start":1576820732000,"end":1635494121000,"encounter_id":"8f9d6372-0e88-4b06-8ccc-5252724730f7"}
+{"patient_id":"0f3b24b0-7e8d-4645-a8c6-4de09149d2f7","encounters":"outpatient procedure","start":1605937515000,"end":1623945081000,"encounter_id":"3a3c63ff-05c3-4d8e-ba4b-a41970f78abb"}
+{"patient_id":"c3fae46d-0c38-4a41-bb2d-025f7f1068f0","encounters":"office visit","start":1553454554000,"end":1632088727000,"encounter_id":"009a9701-5969-416f-b685-31dc7aa8639d"}
+{"patient_id":"6c33374b-77d5-4149-95af-29f5e30cac57","encounters":"office visit","start":1601903168000,"end":1632178637000,"encounter_id":"beb526b1-7761-4ad7-b297-b1a9940367fd"}
+{"patient_id":"6c880fe1-a42f-4117-a644-89c13dab1b80","encounters":"hospitalization","start":1538556022000,"end":1633948110000,"encounter_id":"7bbbb5d9-7094-402e-bffd-c7dc3e345a58"}
+{"patient_id":"f8c253e9-c556-4c3a-94c1-1e87a5aeebcc","encounters":"office visit","start":1638957128000,"end":1640326567000,"encounter_id":"203b8256-81a4-47c2-a3d5-e199b0ff2550"}
+{"patient_id":"17a67bc3-193d-4572-b1ed-92a4ec2e59ec","encounters":"outpatient procedure","start":1549698831000,"end":1560224633000,"encounter_id":"404bb5f7-77e9-42d4-b7d7-df216a6c5262"}
+{"patient_id":"e051bc97-039a-47b7-8f7c-29fa078643f3","encounters":"office visit","start":1622431066000,"end":1627085918000,"encounter_id":"dfc5bc4c-5e71-40ce-9757-b55e2e441d1b"}
+{"patient_id":"a6c9d9f2-026b-4a6b-a65a-d8f09e797e67","encounters":"hospitalization","start":1535734105000,"end":1626842765000,"encounter_id":"951f0a30-9cca-4605-8702-421af8850d9e"}
+{"patient_id":"89ba69b5-2e1f-4453-9d2e-4ba70822bf25","encounters":"office visit","start":1559462279000,"end":1580042761000,"encounter_id":"5be12cbc-a5b8-48dd-b5af-1190cb623a04"}
+{"patient_id":"0c9b61d8-79da-4f25-837a-a14256ef4c78","encounters":"vaccination","start":1613558719000,"end":1622060647000,"encounter_id":"13ca7a6f-88ad-445e-ad3d-a9edbf92d64c"}
+{"patient_id":"28bc926e-7703-4ef4-8fd8-0b1894a33641","encounters":"office visit","start":1582155568000,"end":1613620093000,"encounter_id":"3603944f-b1f9-4c86-96a3-1c45b319b64c"}
+{"patient_id":"2f72b478-e569-4124-acd1-91d0529b56fa","encounters":"office visit","start":1613635919000,"end":1623069498000,"encounter_id":"c2116dd7-339b-404d-8e85-81e9e7374504"}
+{"patient_id":"a96c1cc0-5435-4d64-b871-37f88cd60333","encounters":"office visit","start":1573749156000,"end":1591144697000,"encounter_id":"f858e4ed-1e0a-4d1c-adad-80ae768354e0"}
+{"patient_id":"0777653d-5113-4c61-bd2c-d5a29387449a","encounters":"office visit","start":1633193296000,"end":1633700823000,"encounter_id":"3a8fd188-2d7d-4ceb-94d8-e1ae915d16b1"}
+{"patient_id":"2d423123-1aa1-43b5-94a0-969de72af959","encounters":"hospitalization","start":1520338288000,"end":1609515431000,"encounter_id":"defa209a-975f-4383-a94e-8efc13f787ae"}
+{"patient_id":"a6c9d9f2-026b-4a6b-a65a-d8f09e797e67","encounters":"hospitalization","start":1579331651000,"end":1604781932000,"encounter_id":"dd992670-838d-4942-90c6-1183f9e1f6df"}
+{"patient_id":"6e6dc63b-ed7e-4b6c-b98a-f4925314a2a4","encounters":"hospitalization","start":1638552255000,"end":1638786178000,"encounter_id":"c7c00947-3950-4b0d-b7a9-966792a58ef7"}
+{"patient_id":"f9b909b0-c301-4db1-9c30-a5c2fdd0f3e8","encounters":"hospitalization","start":1518018242000,"end":1639473222000,"encounter_id":"94b1684c-1a49-4d6c-9391-1cf61be88024"}
+{"patient_id":"4be8cc65-e72c-4c81-8954-f3647f4da5c7","encounters":"office visit","start":1629726191000,"end":1639926778000,"encounter_id":"55577829-995c-4df8-b692-a675d6fbb5e2"}
+{"patient_id":"3311b2d6-3732-4e93-904a-1aa1d2540e0e","encounters":"office visit","start":1529117788000,"end":1597346652000,"encounter_id":"3d857599-8f87-4311-8725-aaffeec0c407"}
+{"patient_id":"de33ba46-248c-4273-a556-8f6a99e2d430","encounters":"call for advice","start":1529410594000,"end":1562676461000,"encounter_id":"52359c1b-6d07-40fb-a382-e32a432fe229"}
+{"patient_id":"93b9f077-9a20-4c8a-b499-6b14ca9b4c27","encounters":"office visit","start":1626278756000,"end":1627620775000,"encounter_id":"25ed66e9-b9e9-47ea-9d3a-eda47de39bfd"}
+{"patient_id":"4e8950f7-7766-4b6d-b685-cd28a84000ef","encounters":"office visit","start":1596735694000,"end":1607982556000,"encounter_id":"79a92c0e-de6a-4636-a23e-ee8ff93eeb6e"}
+{"patient_id":"c3fae46d-0c38-4a41-bb2d-025f7f1068f0","encounters":"emergency room","start":1587126060000,"end":1601240778000,"encounter_id":"515ca771-ee60-4e17-842b-92fedc7c6217"}
+{"patient_id":"0ca968c8-946e-4dbd-bc9c-65f30ee532f5","encounters":"hospitalization","start":1527012850000,"end":1534406967000,"encounter_id":"3940de38-072f-46fb-b4e1-682d788b8bec"}
+{"patient_id":"81068f91-eb98-4f33-8751-d8582545d9c1","encounters":"office visit","start":1629051111000,"end":1634759379000,"encounter_id":"bc21a328-45d4-4356-9f69-c000f74571fb"}
+{"patient_id":"ffa48192-6345-48c9-a91c-c336daf6f897","encounters":"hospitalization","start":1601011854000,"end":1617288354000,"encounter_id":"83d4ee3e-ae44-4f0a-938e-a726baf304cb"}
+{"patient_id":"0496c8ab-a239-46e7-b96a-ac0cfed177d5","encounters":"outpatient procedure","start":1606034420000,"end":1615884635000,"encounter_id":"cf43fc1e-14ef-4f59-97d9-903f7742b78a"}
+{"patient_id":"17635591-69a4-4273-9183-543063586af1","encounters":"vaccination","start":1613682985000,"end":1630896658000,"encounter_id":"448db3e3-7da9-442b-935c-1bdc29cbb3c9"}
+{"patient_id":"5f6e9fd8-7353-4816-9460-fdb33e919a3b","encounters":"office visit","start":1594729931000,"end":1618267770000,"encounter_id":"6da749d6-df83-41ed-944f-d09987e4e953"}
+{"patient_id":"9c0fac31-2f9e-439c-baed-c1b086390d03","encounters":"office visit","start":1633302903000,"end":1638401401000,"encounter_id":"ad5a7c62-39a2-4fac-a94c-d878c7afe6e0"}
+{"patient_id":"6e121522-24f7-4102-b38d-d8ba8aa22b58","encounters":"office visit","start":1619391482000,"end":1628084314000,"encounter_id":"32379104-c146-4308-b595-237901e8333a"}
+{"patient_id":"6d0ae6f8-c908-4a86-afae-c461058c2d53","encounters":"icu","start":1622973951000,"end":1640884502000,"encounter_id":"1d0ecdd2-552c-44f5-93fc-ecf7d069b170"}
+{"patient_id":"4de6e547-e0c4-4397-b9e5-5245f25d0666","encounters":"office visit","start":1584710168000,"end":1591824318000,"encounter_id":"a8cac386-afd6-4183-8fb2-054d11a905c1"}
+{"patient_id":"290f9fe9-473e-403f-9510-a9c66882dd2d","encounters":"vaccination","start":1517349554000,"end":1518914280000,"encounter_id":"3339a2aa-73f4-47ce-8b38-2dda50ac1662"}
+{"patient_id":"6e6dc63b-ed7e-4b6c-b98a-f4925314a2a4","encounters":"vaccination","start":1538789783000,"end":1588039222000,"encounter_id":"8e730a07-5c07-4e1d-b99e-83b964069161"}
+{"patient_id":"117fefec-f4aa-40a0-9446-1658d05a750e","encounters":"office visit","start":1614633002000,"end":1635827399000,"encounter_id":"360ae288-1897-47dc-94dc-3c4ef25439e2"}
+{"patient_id":"ecc70d60-25b4-4638-a46f-66c9e54e7fdb","encounters":"vaccination","start":1560099838000,"end":1596367479000,"encounter_id":"44b068b5-545e-458d-8daa-089bccfadfd2"}
+{"patient_id":"d93d213b-6708-4702-9d98-2190fb1d8fa2","encounters":"vaccination","start":1520514022000,"end":1619745418000,"encounter_id":"418cb583-d31b-4f0b-aa44-9fe7476092f0"}
+{"patient_id":"38d148c0-5b24-442a-8fa4-aa17654dccfb","encounters":"outpatient procedure","start":1598117129000,"end":1603232368000,"encounter_id":"09a9c4df-7263-405b-99e6-c04dc75a6ef0"}
+{"patient_id":"9b3bb911-0b70-42cc-a5a2-3028b399f4e7","encounters":"vaccination","start":1596724091000,"end":1628840900000,"encounter_id":"e28f1eb9-19ff-4a26-9e50-556a1b5508ee"}
+{"patient_id":"93b9f077-9a20-4c8a-b499-6b14ca9b4c27","encounters":"office visit","start":1552925059000,"end":1605229904000,"encounter_id":"ba1c9e2e-42df-4829-b0c4-51926f03530c"}
+{"patient_id":"2500c794-227c-4ff3-928d-0e02f6954075","encounters":"office visit","start":1614539710000,"end":1632162940000,"encounter_id":"3feceeb9-aeb3-41fd-b874-3db8eca3f443"}
+{"patient_id":"49cd5e3d-a0a3-4bff-a9ad-38778967a0a1","encounters":"office visit","start":1574201933000,"end":1597114280000,"encounter_id":"9fff1e03-adb4-44f4-ae5e-464c6a7cb7fe"}
+{"patient_id":"abbae750-d6a8-4fa9-a3d7-8488d4294be7","encounters":"outpatient procedure","start":1589692916000,"end":1608776206000,"encounter_id":"e2692ef9-1014-4863-a5d8-6c82edcf7489"}
+{"patient_id":"c3fae46d-0c38-4a41-bb2d-025f7f1068f0","encounters":"emergency room","start":1624815684000,"end":1637021117000,"encounter_id":"876139a9-db5c-47b7-af3e-3bf084712098"}
+{"patient_id":"9fecbe8a-e38a-4393-ac61-51e774f1a9cd","encounters":"hospitalization","start":1563463665000,"end":1618991521000,"encounter_id":"5b0f639c-dc81-4be9-8024-b95ecc99bcf9"}
+{"patient_id":"218d1c4b-55a5-49d2-9f50-53208e2d6256","encounters":"office visit","start":1536754397000,"end":1568440831000,"encounter_id":"03dbdef5-eaec-4ea1-9482-8f627bc93a10"}
+{"patient_id":"e051bc97-039a-47b7-8f7c-29fa078643f3","encounters":"outpatient procedure","start":1532999008000,"end":1578290233000,"encounter_id":"8ac3bfb7-afb9-4d3d-ac0b-18bd0a9380de"}
+{"patient_id":"4e9208c7-51a3-4fdb-8aae-b98bc71bbf1b","encounters":"emergency room","start":1568349663000,"end":1591014270000,"encounter_id":"43827941-26a4-4208-a74c-900348b10213"}
+{"patient_id":"516a3bd8-9f4b-4835-b554-9f747d8d0a2e","encounters":"vaccination","start":1516902070000,"end":1612379953000,"encounter_id":"88f22f9c-d0cc-4ea5-b2e4-bf5d3cb5d58a"}
+{"patient_id":"faddebe9-e2d1-4c9f-92c3-0ec72462af3c","encounters":"office visit","start":1577858439000,"end":1593745575000,"encounter_id":"0e67811a-5aa7-4855-87ff-ff9382e99840"}
+{"patient_id":"c3fae46d-0c38-4a41-bb2d-025f7f1068f0","encounters":"emergency room","start":1550092892000,"end":1566869579000,"encounter_id":"8197bf40-300b-495b-9600-223f11e05b6d"}
+{"patient_id":"e33e9437-2e6d-4702-99da-ec82cbe6fcb8","encounters":"emergency room","start":1560348012000,"end":1585676378000,"encounter_id":"6f8a3f83-6687-423c-bfc8-48e6ec12fcf2"}
+{"patient_id":"23b786be-e348-4948-b474-b428d362d04a","encounters":"vaccination","start":1581874046000,"end":1631671361000,"encounter_id":"93cbeaab-ded8-4ef6-ad6c-e3e02938d847"}
+{"patient_id":"1bbbae3a-0e03-4615-87e8-02b474c70348","encounters":"office visit","start":1560230011000,"end":1581267882000,"encounter_id":"693b5131-9457-4a26-8acb-affa0821ae73"}
+{"patient_id":"0a126db2-271b-42cf-9a48-993bdc8b0b97","encounters":"vaccination","start":1544141718000,"end":1589309911000,"encounter_id":"51391104-b324-49ec-8a50-d8663695c1e0"}
+{"patient_id":"d16def01-4bda-4c60-9ad6-a9fdb7f0e198","encounters":"emergency room","start":1525002363000,"end":1601713704000,"encounter_id":"031740be-2b3f-4ea6-8052-2b878a1da6cb"}
+{"patient_id":"0c9a9102-7dda-4397-939f-a2660038294b","encounters":"vaccination","start":1516427755000,"end":1640262252000,"encounter_id":"0324facc-5182-4c95-a0cb-777cdb907d7d"}
+{"patient_id":"a96c1cc0-5435-4d64-b871-37f88cd60333","encounters":"office visit","start":1593149776000,"end":1595830047000,"encounter_id":"e10098dc-cb1e-46bd-8376-8a792e005770"}
+{"patient_id":"b20c72fb-c48f-4446-a6d4-698806616f4b","encounters":"office visit","start":1592935943000,"end":1615306866000,"encounter_id":"1eacfaa8-ee52-4366-b9d1-1b1de882629d"}
+{"patient_id":"5e0983de-27b4-4478-91f3-5c9d688bc84a","encounters":"hospitalization","start":1560689003000,"end":1593128575000,"encounter_id":"75579a82-697f-4b79-b7ea-24cb4694f632"}
+{"patient_id":"6c33374b-77d5-4149-95af-29f5e30cac57","encounters":"hospitalization","start":1542468397000,"end":1565907453000,"encounter_id":"12bebc5b-9250-4255-8eb7-d90b66cd13f4"}
+{"patient_id":"329a8153-22f2-4636-8916-72d124aefbf6","encounters":"outpatient procedure","start":1610459903000,"end":1634987942000,"encounter_id":"6778f488-c792-4528-8a94-f322f7fd3b72"}
+{"patient_id":"2f72b478-e569-4124-acd1-91d0529b56fa","encounters":"vaccination","start":1556242294000,"end":1579595017000,"encounter_id":"b9b01cd1-5ff5-4bad-9914-97c86a01a72e"}
+{"patient_id":"0777653d-5113-4c61-bd2c-d5a29387449a","encounters":"office visit","start":1547417843000,"end":1590068361000,"encounter_id":"8a000209-1505-46e4-9a62-741dbb9c1f72"}
+{"patient_id":"c3fae46d-0c38-4a41-bb2d-025f7f1068f0","encounters":"emergency room","start":1602944415000,"end":1636719063000,"encounter_id":"dcf15808-2bd0-43fc-9e41-606c431ceb59"}
+{"patient_id":"d3e2c1a1-f3f2-4316-aa27-e4b7b27ba8ba","encounters":"emergency room","start":1550468215000,"end":1631208637000,"encounter_id":"bb9a60fc-255d-4f7e-b8f8-95063bfc9bd9"}
+{"patient_id":"9fecbe8a-e38a-4393-ac61-51e774f1a9cd","encounters":"emergency room","start":1628116156000,"end":1640841592000,"encounter_id":"05097998-fd18-4a12-b875-8820508492c0"}
+{"patient_id":"b0e06260-7efa-4a6e-913d-6c0742aab369","encounters":"office visit","start":1559081297000,"end":1577611816000,"encounter_id":"2e644687-f8b3-45b3-bab2-4236ffe9b8df"}
+{"patient_id":"3d9f21d7-673a-406f-a375-44b72ddab2cc","encounters":"icu","start":1559339160000,"end":1586327030000,"encounter_id":"78758356-ce81-4202-abfa-e19ab92a4008"}
+{"patient_id":"6e6dc63b-ed7e-4b6c-b98a-f4925314a2a4","encounters":"office visit","start":1531330884000,"end":1551731251000,"encounter_id":"02cdc52b-5f2a-423d-b33b-2d2cd255a321"}
+{"patient_id":"4de6e547-e0c4-4397-b9e5-5245f25d0666","encounters":"office visit","start":1528646532000,"end":1576075699000,"encounter_id":"7e24db98-1e2d-4c66-bbe6-11b5be533cc8"}
+{"patient_id":"93b9f077-9a20-4c8a-b499-6b14ca9b4c27","encounters":"office visit","start":1625088441000,"end":1633387972000,"encounter_id":"adb030aa-99b5-4e05-af6f-c19d762f689b"}
+{"patient_id":"49cd5e3d-a0a3-4bff-a9ad-38778967a0a1","encounters":"office visit","start":1636353576000,"end":1637916194000,"encounter_id":"19c628dd-0c5d-465a-a372-18d0479584f0"}
+{"patient_id":"0f3b24b0-7e8d-4645-a8c6-4de09149d2f7","encounters":"outpatient procedure","start":1595805981000,"end":1601245381000,"encounter_id":"0f63af5c-da80-4d7a-a98e-223a0ee5a57e"}
+{"patient_id":"b82aab28-c7bd-4659-a384-1053551bb243","encounters":"office visit","start":1557723078000,"end":1638554851000,"encounter_id":"036e969c-f6fc-4f0f-a7bf-e944bd2334d5"}
+{"patient_id":"23f3a569-b1fa-470c-81f7-e730e4f21430","encounters":"hospitalization","start":1546320192000,"end":1631881130000,"encounter_id":"5ef71176-ff54-43ce-9e5c-e551599289e4"}
+{"patient_id":"de33ba46-248c-4273-a556-8f6a99e2d430","encounters":"emergency room","start":1615908710000,"end":1623027684000,"encounter_id":"594f1df0-7e25-4271-8e8d-40c8792ffb4e"}
+{"patient_id":"b82aab28-c7bd-4659-a384-1053551bb243","encounters":"office visit","start":1624355801000,"end":1640728649000,"encounter_id":"8cbb3e6f-ca38-4724-8939-950ff0797323"}
+{"patient_id":"4b05601e-16f0-443c-9963-d1576858fc9a","encounters":"emergency room","start":1586625278000,"end":1595916694000,"encounter_id":"0c2288b3-5645-469b-9992-20db3b0f5e9e"}
+{"patient_id":"806ea971-8ad5-46fb-b56b-1c68ce1a441c","encounters":"hospitalization","start":1634283134000,"end":1638075724000,"encounter_id":"8812ff88-9f1c-49b6-98c1-50f582131e0e"}
+{"patient_id":"0777653d-5113-4c61-bd2c-d5a29387449a","encounters":"outpatient procedure","start":1613858309000,"end":1634069554000,"encounter_id":"153f3bd0-ba9b-4901-b651-f79640566932"}
+{"patient_id":"9fecbe8a-e38a-4393-ac61-51e774f1a9cd","encounters":"office visit","start":1601370786000,"end":1619864441000,"encounter_id":"1d57f6df-6764-442f-b955-908af0d41e84"}
+{"patient_id":"ec615e8b-536c-419b-9556-7f391a4cb594","encounters":"office visit","start":1561250568000,"end":1632412747000,"encounter_id":"47a28104-aef5-4b3d-819b-c78c55501f17"}
+{"patient_id":"f21ffd22-a3ff-4f3c-ba77-8493ea92805a","encounters":"office visit","start":1576287229000,"end":1632601729000,"encounter_id":"ddf76517-7928-4d52-b159-9e1b26b6572f"}
+{"patient_id":"290f9fe9-473e-403f-9510-a9c66882dd2d","encounters":"office visit","start":1518227873000,"end":1618743972000,"encounter_id":"21b7d6bd-d57d-4b75-995c-197c4c04e88a"}
+{"patient_id":"3311b2d6-3732-4e93-904a-1aa1d2540e0e","encounters":"office visit","start":1623573361000,"end":1633597536000,"encounter_id":"9bd45819-c0ec-42e3-92ba-a8e2a8d16004"}
+{"patient_id":"290f9fe9-473e-403f-9510-a9c66882dd2d","encounters":"office visit","start":1591337966000,"end":1637243179000,"encounter_id":"3a3a59e5-f1ed-41dc-8035-a209a31b4d79"}
+{"patient_id":"5e0983de-27b4-4478-91f3-5c9d688bc84a","encounters":"outpatient procedure","start":1555039452000,"end":1631820688000,"encounter_id":"0edc3476-95d4-4a06-a6e6-88a4f558d69d"}
+{"patient_id":"5f6e9fd8-7353-4816-9460-fdb33e919a3b","encounters":"office visit","start":1635022258000,"end":1637959702000,"encounter_id":"6ec57f39-220f-4e7b-8feb-12255463ec83"}
+{"patient_id":"c3fae46d-0c38-4a41-bb2d-025f7f1068f0","encounters":"office visit","start":1616045183000,"end":1624414378000,"encounter_id":"65052faf-1b61-4be3-996d-209a094f2ac9"}
+{"patient_id":"306fbd95-3e1d-40f3-9d92-f97c594ffc86","encounters":"office visit","start":1588299682000,"end":1622112822000,"encounter_id":"31d27939-6f88-4670-a8b6-117acb8fbad8"}
+{"patient_id":"f67627ea-d46c-4ad4-858c-273f1aef1e1f","encounters":"hospitalization","start":1615901862000,"end":1624242756000,"encounter_id":"5269895c-288f-4836-b2d1-ddc67874f66e"}
+{"patient_id":"49cd5e3d-a0a3-4bff-a9ad-38778967a0a1","encounters":"vaccination","start":1522348768000,"end":1538359710000,"encounter_id":"b0a59e4e-7056-40bd-9621-d20b7eaf3461"}
+{"patient_id":"b0e06260-7efa-4a6e-913d-6c0742aab369","encounters":"call for advice","start":1617973873000,"end":1632445129000,"encounter_id":"fae9d9d6-bf7d-4c01-8c9a-c6ddb441d0a8"}
+{"patient_id":"e33e9437-2e6d-4702-99da-ec82cbe6fcb8","encounters":"emergency room","start":1578384429000,"end":1626491609000,"encounter_id":"c274b2da-c1e1-4535-af41-d82669d575f6"}
+{"patient_id":"d3e2c1a1-f3f2-4316-aa27-e4b7b27ba8ba","encounters":"office visit","start":1638599321000,"end":1640818501000,"encounter_id":"2a0420b0-a5fb-4d6e-922e-b5837bcad7f1"}
+{"patient_id":"6e121522-24f7-4102-b38d-d8ba8aa22b58","encounters":"emergency room","start":1630395269000,"end":1633560301000,"encounter_id":"8018bf7c-c833-4abd-b643-945184d0e7f7"}
+{"patient_id":"0a126db2-271b-42cf-9a48-993bdc8b0b97","encounters":"office visit","start":1588096343000,"end":1613354269000,"encounter_id":"37712dd1-0b5a-4536-9571-a0c64832e5af"}
+{"patient_id":"89ba69b5-2e1f-4453-9d2e-4ba70822bf25","encounters":"office visit","start":1534123125000,"end":1637178260000,"encounter_id":"f2aa01ab-f588-4631-9af3-38055483181c"}
+{"patient_id":"516a3bd8-9f4b-4835-b554-9f747d8d0a2e","encounters":"office visit","start":1596337770000,"end":1602279888000,"encounter_id":"f85f35ac-05ce-4638-a100-1709723fa3f0"}
+{"patient_id":"806a6397-e95b-4f17-b11b-d97a1f354223","encounters":"vaccination","start":1617963326000,"end":1636703268000,"encounter_id":"77ecbc81-62a6-4c4d-9ac2-59a552144299"}
+{"patient_id":"0115f061-a430-4ff9-adc4-e2827e0fddf4","encounters":"emergency room","start":1632692690000,"end":1636985433000,"encounter_id":"9290a615-acee-414a-a488-258862dedd30"}
+{"patient_id":"b0e06260-7efa-4a6e-913d-6c0742aab369","encounters":"office visit","start":1601640520000,"end":1639406818000,"encounter_id":"a0bdb27d-090b-431d-8773-9834849f9179"}
+{"patient_id":"218d1c4b-55a5-49d2-9f50-53208e2d6256","encounters":"emergency room","start":1550188071000,"end":1638774632000,"encounter_id":"b46e3bc0-cc85-432f-b176-59e23573280e"}
+{"patient_id":"c3fae46d-0c38-4a41-bb2d-025f7f1068f0","encounters":"emergency room","start":1587126060000,"end":1601240778000,"encounter_id":"515ca771-ee60-4e17-842b-92fedc7c6217"}
+{"patient_id":"6d0ae6f8-c908-4a86-afae-c461058c2d53","encounters":"emergency room","start":1628602161000,"end":1635115350000,"encounter_id":"e0609b57-d25e-4823-baa7-b11314d1a744"}
+{"patient_id":"77687178-a9b0-4bf5-a8dc-0e334c02a4e5","encounters":"vaccination","start":1599224398000,"end":1618656617000,"encounter_id":"bf543005-f49f-49c0-ac3c-7f2e78ae1945"}
+{"patient_id":"a96c1cc0-5435-4d64-b871-37f88cd60333","encounters":"office visit","start":1534595040000,"end":1541000075000,"encounter_id":"a0c88bc4-d5a5-410b-915b-6f8c090bd5f0"}
+{"patient_id":"c90748df-4d0c-4be6-98be-48771e86ebae","encounters":"icu","start":1614254548000,"end":1633816236000,"encounter_id":"8931e528-f4bf-47a7-8546-c9905a2d3136"}
+{"patient_id":"b97171e1-cdc2-4b00-b8aa-82bb2366d594","encounters":"office visit","start":1586201910000,"end":1588281846000,"encounter_id":"7455a833-8971-4db9-bacd-f5190ca2360b"}
+{"patient_id":"f67627ea-d46c-4ad4-858c-273f1aef1e1f","encounters":"hospitalization","start":1621452467000,"end":1625287985000,"encounter_id":"79fd3636-95b0-4b1f-a09b-9a338b6c9859"}
+{"patient_id":"c0266ec5-b5aa-4580-a588-f58f036df2c2","encounters":"hospitalization","start":1529649169000,"end":1570820559000,"encounter_id":"ae0adac5-e366-4889-bd15-55e4c6e43843"}
+{"patient_id":"b41241d8-c212-44f9-90a5-137344bee810","encounters":"office visit","start":1541535345000,"end":1614297771000,"encounter_id":"d84779fb-eb14-4347-a419-01a820df4cc7"}
+{"patient_id":"d16def01-4bda-4c60-9ad6-a9fdb7f0e198","encounters":"office visit","start":1635379554000,"end":1640897607000,"encounter_id":"2d671bf6-0d21-426b-9864-827d80ead362"}
+{"patient_id":"591b98be-40e0-4d91-ad9a-bd453b28d851","encounters":"office visit","start":1549936037000,"end":1571968545000,"encounter_id":"aa326fdd-a2c3-414d-80c9-c635ab7beff3"}
+{"patient_id":"c3fae46d-0c38-4a41-bb2d-025f7f1068f0","encounters":"hospitalization","start":1559867795000,"end":1625800569000,"encounter_id":"a1bd0160-1e69-4c1b-ace7-41019c4dbda2"}
+{"patient_id":"f9b909b0-c301-4db1-9c30-a5c2fdd0f3e8","encounters":"office visit","start":1528696533000,"end":1587604290000,"encounter_id":"a8fefee0-a2f0-451e-928d-3e6cc28f4854"}
+{"patient_id":"17a67bc3-193d-4572-b1ed-92a4ec2e59ec","encounters":"office visit","start":1584411239000,"end":1637095876000,"encounter_id":"840dbfe0-26ba-4d34-aa29-ae710e4b6a77"}
+{"patient_id":"b82aab28-c7bd-4659-a384-1053551bb243","encounters":"office visit","start":1558229445000,"end":1625751791000,"encounter_id":"1b4d4492-73ae-49be-9a0f-69d6360b16a3"}
+{"patient_id":"329a8153-22f2-4636-8916-72d124aefbf6","encounters":"office visit","start":1598810512000,"end":1610035037000,"encounter_id":"c3dd9e38-4c5d-4692-98dc-e816640ea65d"}
+{"patient_id":"9c0fac31-2f9e-439c-baed-c1b086390d03","encounters":"emergency room","start":1579859722000,"end":1581789348000,"encounter_id":"f0afbd07-cf53-44e2-b0be-89530ddac537"}
+{"patient_id":"32c62c30-46ff-49a0-89c5-a256038eacdb","encounters":"outpatient procedure","start":1607489046000,"end":1613785180000,"encounter_id":"5ba5313c-907f-461c-b986-561132195404"}
+{"patient_id":"ca6b1a23-8b45-4f2d-a9b9-3d57f15c8e83","encounters":"call for advice","start":1577459628000,"end":1609327043000,"encounter_id":"104ac2ec-3adb-42a0-94e7-9e62f0121499"}
+{"patient_id":"c24efd37-9918-4251-addf-9d896c646e06","encounters":"hospitalization","start":1586340975000,"end":1627313821000,"encounter_id":"d612c82f-aac4-4967-8982-448d7b993155"}
+{"patient_id":"749b5d4c-2464-4be8-8d21-b3ffa86a53ee","encounters":"office visit","start":1531776538000,"end":1623206119000,"encounter_id":"e5a2e851-95b2-48df-b88d-402dec4a04bf"}
+{"patient_id":"8f9ad747-b7ad-40f5-85d9-c40dcd50924a","encounters":"office visit","start":1558994305000,"end":1588051561000,"encounter_id":"f7f32092-ea7b-4037-98b7-3e59f4e3eaaa"}
+{"patient_id":"32d208c3-8149-4978-a150-6aa6e0fb19e2","encounters":"vaccination","start":1567572709000,"end":1574342477000,"encounter_id":"0391ab59-9661-4711-a2e6-4c498ae0a109"}
+{"patient_id":"245a387e-cd6a-4f83-9008-931c5da445f9","encounters":"office visit","start":1552068139000,"end":1576470620000,"encounter_id":"61844724-af97-4006-848d-b8826745ccfc"}
+{"patient_id":"011c74dc-012c-4254-bb75-35ceddb575e2","encounters":"icu","start":1523120953000,"end":1617208003000,"encounter_id":"40924aca-0155-4c82-8270-97d7bd0a3fbd"}
+{"patient_id":"0c9b61d8-79da-4f25-837a-a14256ef4c78","encounters":"hospitalization","start":1598612813000,"end":1603594444000,"encounter_id":"ab5eb101-2794-478b-919f-ee25a3a280f3"}
+{"patient_id":"749b5d4c-2464-4be8-8d21-b3ffa86a53ee","encounters":"office visit","start":1539591737000,"end":1583764470000,"encounter_id":"3f5182eb-08b0-4544-b207-08c6cd2b2ddd"}
+{"patient_id":"a96c1cc0-5435-4d64-b871-37f88cd60333","encounters":"office visit","start":1617119268000,"end":1630564561000,"encounter_id":"0e651d9d-d48d-47d8-beb9-df802d486827"}
+{"patient_id":"b1f3e6de-110f-4f47-bd4a-b0207d49fb8c","encounters":"office visit","start":1563739532000,"end":1616782696000,"encounter_id":"ac6d0ab8-7cb0-452f-82f1-4c4a9440401c"}
+{"patient_id":"32c62c30-46ff-49a0-89c5-a256038eacdb","encounters":"outpatient procedure","start":1560676514000,"end":1638334074000,"encounter_id":"7a2e218e-b7bb-4c19-b9c4-8fc7fac58baf"}
+{"patient_id":"3311b2d6-3732-4e93-904a-1aa1d2540e0e","encounters":"vaccination","start":1626316402000,"end":1629518669000,"encounter_id":"91b61ea7-34d0-4d99-b666-e4938846c97a"}
+{"patient_id":"b1f3e6de-110f-4f47-bd4a-b0207d49fb8c","encounters":"office visit","start":1565268362000,"end":1638897961000,"encounter_id":"7f42d256-f005-4c25-b9ac-e08de09addc5"}
+{"patient_id":"49cd5e3d-a0a3-4bff-a9ad-38778967a0a1","encounters":"office visit","start":1589009297000,"end":1615234184000,"encounter_id":"c242b852-c90b-4a04-94f0-4554afd0aebf"}
+{"patient_id":"0ca968c8-946e-4dbd-bc9c-65f30ee532f5","encounters":"hospitalization","start":1514972512000,"end":1585379741000,"encounter_id":"381b938a-ad9c-4d08-9b1a-fed0a090b04f"}
+{"patient_id":"23b786be-e348-4948-b474-b428d362d04a","encounters":"office visit","start":1600789617000,"end":1638138281000,"encounter_id":"bb8ab83b-d338-42f2-b57d-2f8fbf4fb70d"}
+{"patient_id":"de33ba46-248c-4273-a556-8f6a99e2d430","encounters":"office visit","start":1615201112000,"end":1624184502000,"encounter_id":"12884874-53c6-4b79-be1b-b05988b31ddd"}
+{"patient_id":"0777653d-5113-4c61-bd2c-d5a29387449a","encounters":"office visit","start":1523860315000,"end":1628597145000,"encounter_id":"db312ba4-1520-4260-83cc-14e68456be61"}
+{"patient_id":"caa72261-0969-4a93-b37d-b41bebd6daaf","encounters":"call for advice","start":1630226245000,"end":1637290538000,"encounter_id":"1246a9cf-8b58-4475-9552-64f295869096"}
+{"patient_id":"9fecbe8a-e38a-4393-ac61-51e774f1a9cd","encounters":"outpatient procedure","start":1633708918000,"end":1638691026000,"encounter_id":"302fd0ef-b477-4d42-8d3f-57b171e1ede9"}
+{"patient_id":"77687178-a9b0-4bf5-a8dc-0e334c02a4e5","encounters":"office visit","start":1533342475000,"end":1576163842000,"encounter_id":"47754328-9c1e-44a5-8498-5b03cd3e8b53"}
+{"patient_id":"516a3bd8-9f4b-4835-b554-9f747d8d0a2e","encounters":"icu","start":1616928774000,"end":1636799015000,"encounter_id":"7e625885-6208-4f12-a9d7-dee3a1c85413"}
+{"patient_id":"8f9ad747-b7ad-40f5-85d9-c40dcd50924a","encounters":"hospitalization","start":1565400752000,"end":1626578269000,"encounter_id":"deb355d6-8b2a-4538-b5b0-d1d07b0e13a3"}
+{"patient_id":"f8c253e9-c556-4c3a-94c1-1e87a5aeebcc","encounters":"office visit","start":1581458688000,"end":1607289915000,"encounter_id":"25d22b25-9a10-4a7e-a8f1-e05637d5084c"}
+{"patient_id":"2f72b478-e569-4124-acd1-91d0529b56fa","encounters":"vaccination","start":1528902697000,"end":1541594238000,"encounter_id":"dae6af69-8f23-4254-9611-ce4b9568991e"}
+{"patient_id":"e17e9d80-e374-4c43-b6ef-5c74e2310768","encounters":"emergency room","start":1592348419000,"end":1621490915000,"encounter_id":"44d04b0d-51ba-44f6-a96a-62a59285824d"}
+{"patient_id":"4b05601e-16f0-443c-9963-d1576858fc9a","encounters":"office visit","start":1638794914000,"end":1638999260000,"encounter_id":"1fa19060-48e0-4365-9a23-8bd6ac066b63"}
+{"patient_id":"32d208c3-8149-4978-a150-6aa6e0fb19e2","encounters":"office visit","start":1571987626000,"end":1604060449000,"encounter_id":"ab9c1467-ac2e-4788-8256-16dc46b8493c"}
+{"patient_id":"26f66258-b887-424e-9a5a-5c2f222defa1","encounters":"office visit","start":1546021245000,"end":1637542872000,"encounter_id":"9a33c225-7d30-4345-872d-e2be494a9e90"}
+{"patient_id":"109a2009-5ffd-455b-a3e3-66f358d16d6a","encounters":"office visit","start":1589011650000,"end":1616960339000,"encounter_id":"482ff418-5462-4160-823b-120d960f836a"}
+{"patient_id":"c0266ec5-b5aa-4580-a588-f58f036df2c2","encounters":"outpatient procedure","start":1520530557000,"end":1607218276000,"encounter_id":"c265aa0a-ba6f-4e89-be98-93471430ae68"}
+{"patient_id":"266ddba6-90ca-4a71-b95e-4041ac209b57","encounters":"call for advice","start":1569389699000,"end":1584109229000,"encounter_id":"63c330ba-11bb-4c63-a06e-ee8798a81fc1"}
+{"patient_id":"117fefec-f4aa-40a0-9446-1658d05a750e","encounters":"vaccination","start":1590409656000,"end":1617744369000,"encounter_id":"3351e9f4-11e8-4cdd-b2d0-92470177af2f"}
+{"patient_id":"0777653d-5113-4c61-bd2c-d5a29387449a","encounters":"office visit","start":1520669512000,"end":1632250053000,"encounter_id":"b3cf372e-6523-4ad7-b0d0-a6c4921d3f19"}
+{"patient_id":"6d0ae6f8-c908-4a86-afae-c461058c2d53","encounters":"hospitalization","start":1532659651000,"end":1570906567000,"encounter_id":"91c848d4-862e-4bc0-b8a8-7381157a23bc"}
+{"patient_id":"c3fae46d-0c38-4a41-bb2d-025f7f1068f0","encounters":"office visit","start":1583818396000,"end":1596777342000,"encounter_id":"29d34b30-cdd9-4a89-bf45-d0204d1d90c5"}
+{"patient_id":"498d30c5-7b1b-41cc-8d30-939675b60755","encounters":"office visit","start":1612165212000,"end":1623463294000,"encounter_id":"8b0d5908-b5c4-4461-b8b7-4fe6dfe36bf9"}
+{"patient_id":"23f3a569-b1fa-470c-81f7-e730e4f21430","encounters":"office visit","start":1588529668000,"end":1596746931000,"encounter_id":"23d955bc-127f-4570-ab78-7d6d3834b49a"}
+{"patient_id":"be59a4cb-9ead-40e7-b16c-065e4d74fddf","encounters":"emergency room","start":1547435396000,"end":1554560839000,"encounter_id":"6f41556d-ce08-4304-a0ea-73e2c9697e95"}
+{"patient_id":"498d30c5-7b1b-41cc-8d30-939675b60755","encounters":"icu","start":1548944564000,"end":1553556896000,"encounter_id":"a5a65a2c-e89d-4bb3-9235-851814c76fcb"}
+{"patient_id":"2d423123-1aa1-43b5-94a0-969de72af959","encounters":"office visit","start":1632262846000,"end":1636310469000,"encounter_id":"24d11589-8891-4939-b0ee-2e85c0a4d548"}
+{"patient_id":"6c33374b-77d5-4149-95af-29f5e30cac57","encounters":"office visit","start":1590155575000,"end":1631312681000,"encounter_id":"5049ff91-94ef-4875-a7c3-0e190151f310"}
+{"patient_id":"259454da-8fab-42a1-8408-7f520883a0bb","encounters":"office visit","start":1568317597000,"end":1568925571000,"encounter_id":"84b89511-f53f-461c-9a0c-d0e60b76925d"}
+{"patient_id":"306fbd95-3e1d-40f3-9d92-f97c594ffc86","encounters":"office visit","start":1603702926000,"end":1620416183000,"encounter_id":"2911902f-59d0-472a-aa93-6b8aff66327e"}
+{"patient_id":"b20c72fb-c48f-4446-a6d4-698806616f4b","encounters":"hospitalization","start":1634234657000,"end":1635902352000,"encounter_id":"da4ccb68-7587-4fe3-88f9-5d2e68a86763"}
+{"patient_id":"0a126db2-271b-42cf-9a48-993bdc8b0b97","encounters":"office visit","start":1552386446000,"end":1627616633000,"encounter_id":"c18b01c3-33e8-4ff9-a6f7-a4accec9bdb6"}
+{"patient_id":"9fecbe8a-e38a-4393-ac61-51e774f1a9cd","encounters":"hospitalization","start":1551890668000,"end":1580320836000,"encounter_id":"9ea332f7-e1c7-4402-8354-d97dadcd77f7"}
+{"patient_id":"32c62c30-46ff-49a0-89c5-a256038eacdb","encounters":"outpatient procedure","start":1582529288000,"end":1589532122000,"encounter_id":"848cc030-6c09-4588-95ed-d0c67a23b0a5"}
+{"patient_id":"de33ba46-248c-4273-a556-8f6a99e2d430","encounters":"call for advice","start":1562059116000,"end":1609067464000,"encounter_id":"ad9c39f1-2e27-4ef9-b51d-48b4cce75362"}
+{"patient_id":"d93d213b-6708-4702-9d98-2190fb1d8fa2","encounters":"emergency room","start":1548175966000,"end":1584041714000,"encounter_id":"a6542336-b992-41c8-bd3a-4fbd7d095253"}
+{"patient_id":"175774f3-c1c9-4da2-8714-ad1d526f7ebe","encounters":"office visit","start":1557908213000,"end":1579957364000,"encounter_id":"cf6053f0-0016-413a-ab5f-f2b2800be2b3"}
+{"patient_id":"26f66258-b887-424e-9a5a-5c2f222defa1","encounters":"office visit","start":1522319201000,"end":1527539480000,"encounter_id":"1af0174e-cd74-4b24-9df3-1a16e42c9a09"}
+{"patient_id":"6e54a618-2bd2-4108-867d-9f8e93a6a5f6","encounters":"outpatient procedure","start":1537169811000,"end":1587403251000,"encounter_id":"c9648be9-52e2-4a6d-8e06-ed38b21a52d0"}
+{"patient_id":"b0e06260-7efa-4a6e-913d-6c0742aab369","encounters":"office visit","start":1600797024000,"end":1634470927000,"encounter_id":"35f89049-d42b-4181-be32-6c548ffa8efe"}
+{"patient_id":"67989b41-002b-4a37-857d-b783aa9c71c2","encounters":"office visit","start":1547164926000,"end":1558807701000,"encounter_id":"9bc00a7e-54ba-4519-aa18-7e535e99478f"}
+{"patient_id":"b0e06260-7efa-4a6e-913d-6c0742aab369","encounters":"office visit","start":1637106302000,"end":1639122154000,"encounter_id":"160e967c-7a65-4666-bdad-65cc1b37478b"}
+{"patient_id":"0777653d-5113-4c61-bd2c-d5a29387449a","encounters":"office visit","start":1567644369000,"end":1623295128000,"encounter_id":"089f994a-68a7-4a17-a539-28ef73096f54"}
+{"patient_id":"32d208c3-8149-4978-a150-6aa6e0fb19e2","encounters":"office visit","start":1534242409000,"end":1598386993000,"encounter_id":"a2ef3daa-31b3-4de5-a44e-5943418fa395"}
+{"patient_id":"07edfa02-26cd-4d0d-b63c-b558accb8f88","encounters":"hospitalization","start":1562055980000,"end":1619378233000,"encounter_id":"c3d91c84-54c5-45b9-96c2-a977ff938413"}
+{"patient_id":"9fecbe8a-e38a-4393-ac61-51e774f1a9cd","encounters":"office visit","start":1579271417000,"end":1594050919000,"encounter_id":"2089d8d0-4d1d-4a66-8007-f729afefe29b"}
+{"patient_id":"1bbbae3a-0e03-4615-87e8-02b474c70348","encounters":"vaccination","start":1545154329000,"end":1568846489000,"encounter_id":"21f285b3-3e73-4ae6-b9ae-3f8d766fdd83"}
+{"patient_id":"2f72b478-e569-4124-acd1-91d0529b56fa","encounters":"outpatient procedure","start":1582578919000,"end":1612694867000,"encounter_id":"f2a1abc0-fb94-42bf-98c7-fe425f5059b0"}
+{"patient_id":"a566ca01-a615-4445-8061-89dbc1278d83","encounters":"office visit","start":1567648748000,"end":1584728960000,"encounter_id":"755b4cbe-2fd6-4c75-9c39-1999582bf715"}
+{"patient_id":"b1f3e6de-110f-4f47-bd4a-b0207d49fb8c","encounters":"office visit","start":1620430142000,"end":1629642065000,"encounter_id":"d81c36d1-8909-4fb7-bf1e-6bafa78b6fe5"}
+{"patient_id":"806a6397-e95b-4f17-b11b-d97a1f354223","encounters":"emergency room","start":1637031036000,"end":1638711135000,"encounter_id":"94d28294-0683-42f7-8f32-41a81cf7bd4f"}
+{"patient_id":"49cd5e3d-a0a3-4bff-a9ad-38778967a0a1","encounters":"office visit","start":1639265095000,"end":1641004166000,"encounter_id":"c40b10ec-fa00-4098-b866-a3964dfa1890"}
+{"patient_id":"5db8f07a-49cb-4a1f-b377-046326a94a1c","encounters":"office visit","start":1544235888000,"end":1546990503000,"encounter_id":"0b9315e1-3b87-45ec-9d01-4cd1b55bbcf0"}
+{"patient_id":"32d208c3-8149-4978-a150-6aa6e0fb19e2","encounters":"office visit","start":1550318036000,"end":1605027625000,"encounter_id":"073ef2ee-960c-47e9-b9b3-28ec383e6946"}
+{"patient_id":"3d9f21d7-673a-406f-a375-44b72ddab2cc","encounters":"office visit","start":1521737078000,"end":1616448941000,"encounter_id":"4c018a26-4275-4c5d-930b-0c46cca2d55e"}
+{"patient_id":"7c3bd0a5-d6a4-48c7-a268-34f490fd887b","encounters":"office visit","start":1527568147000,"end":1610396727000,"encounter_id":"f82cd152-6e57-4c54-99fc-32a666e137b3"}
+{"patient_id":"67989b41-002b-4a37-857d-b783aa9c71c2","encounters":"office visit","start":1519863838000,"end":1639875924000,"encounter_id":"7db7d75e-af00-4e64-8291-0a4ac459f84b"}
+{"patient_id":"109a2009-5ffd-455b-a3e3-66f358d16d6a","encounters":"office visit","start":1545948608000,"end":1576164445000,"encounter_id":"f89ba1bd-1dc5-4df9-9aed-a113cb12d67a"}
+{"patient_id":"bc0a29d4-db0b-4d48-9a6d-4700a2d11c2a","encounters":"office visit","start":1556992092000,"end":1599839062000,"encounter_id":"98145575-836f-459f-934b-ad6bd40c1d4c"}
+{"patient_id":"b0e06260-7efa-4a6e-913d-6c0742aab369","encounters":"office visit","start":1525432740000,"end":1542307518000,"encounter_id":"d3719db6-c98f-4743-99e1-1c5cfb2ef9f8"}
+{"patient_id":"ded66e72-94da-4cf3-aeef-91492b66856d","encounters":"call for advice","start":1525440885000,"end":1553762859000,"encounter_id":"217c84c4-3b2d-4490-8fcf-e58484ab6e05"}
+{"patient_id":"0c9b61d8-79da-4f25-837a-a14256ef4c78","encounters":"call for advice","start":1532139454000,"end":1559044036000,"encounter_id":"614d0f31-f2fa-41c5-a254-97b8ad2332da"}
+{"patient_id":"caa72261-0969-4a93-b37d-b41bebd6daaf","encounters":"emergency room","start":1530581263000,"end":1543850496000,"encounter_id":"abee0cb9-4bce-49b3-8d6d-529cffa17118"}
+{"patient_id":"4b05601e-16f0-443c-9963-d1576858fc9a","encounters":"hospitalization","start":1583962398000,"end":1632687452000,"encounter_id":"73e0f2b7-08fa-4d52-948c-58326cd7875d"}
+{"patient_id":"de33ba46-248c-4273-a556-8f6a99e2d430","encounters":"vaccination","start":1526807112000,"end":1632197250000,"encounter_id":"b3151bd9-1ba4-4563-91f3-07e808f65cb0"}
+{"patient_id":"0f3b24b0-7e8d-4645-a8c6-4de09149d2f7","encounters":"office visit","start":1535933272000,"end":1616987619000,"encounter_id":"e8ecd5a7-d64d-4a0c-848e-cdf09a3abfef"}
+{"patient_id":"6c880fe1-a42f-4117-a644-89c13dab1b80","encounters":"office visit","start":1531571457000,"end":1629106053000,"encounter_id":"8981a3d8-e1cf-4631-815a-f4c99706144c"}
+{"patient_id":"3311b2d6-3732-4e93-904a-1aa1d2540e0e","encounters":"office visit","start":1569785238000,"end":1626894451000,"encounter_id":"52b48a20-18d3-40c6-922a-f49ca3939b2f"}
+{"patient_id":"949b34d8-38a2-475e-b473-01545ff11483","encounters":"office visit","start":1580527782000,"end":1590186460000,"encounter_id":"026725ae-f11a-48b6-82f4-6343e8882574"}
+{"patient_id":"9fecbe8a-e38a-4393-ac61-51e774f1a9cd","encounters":"vaccination","start":1588457605000,"end":1609491934000,"encounter_id":"e60b7386-5207-4c1d-8884-eec1f423417e"}
+{"patient_id":"7cc95649-27c5-4bed-a6a5-979b3c82f798","encounters":"vaccination","start":1628194056000,"end":1639547168000,"encounter_id":"075224f3-892c-4f11-af87-75902b87d55a"}
+{"patient_id":"4d8231a0-8651-42cf-9759-18d8c5c86b27","encounters":"icu","start":1526752700000,"end":1529621856000,"encounter_id":"68af3c87-4064-4477-9488-82ede77cdc56"}
+{"patient_id":"d764b272-b379-4b66-907d-73fd698329e5","encounters":"call for advice","start":1539062346000,"end":1571352714000,"encounter_id":"841abeaa-9ea9-48a5-a513-6d6a48c863bb"}
+{"patient_id":"b0e06260-7efa-4a6e-913d-6c0742aab369","encounters":"office visit","start":1625015187000,"end":1630892691000,"encounter_id":"f9eccee0-932f-49a9-9e3a-6e6ea6c7093b"}
+{"patient_id":"cf795499-c9b0-4bbc-9933-3280f8717ce3","encounters":"office visit","start":1626441426000,"end":1637238454000,"encounter_id":"83d0c2b0-5ce2-4eb3-8931-3751f84d7d18"}
+{"patient_id":"84f52b7b-6741-48c2-97e9-7dbfddb4d092","encounters":"call for advice","start":1573496109000,"end":1596479685000,"encounter_id":"1b06b30e-ea8a-414f-b139-ad668429a3a6"}
+{"patient_id":"f67627ea-d46c-4ad4-858c-273f1aef1e1f","encounters":"icu","start":1549929967000,"end":1563908419000,"encounter_id":"4da09849-1b28-4bad-97a9-08ba9e0ee0b4"}
+{"patient_id":"5f6e9fd8-7353-4816-9460-fdb33e919a3b","encounters":"office visit","start":1518907391000,"end":1541397161000,"encounter_id":"e775bd1b-6cf1-4982-b203-19cd227755f2"}
+{"patient_id":"254684d2-8146-4fed-9c4a-c51ae08e5c82","encounters":"office visit","start":1617767086000,"end":1637226615000,"encounter_id":"81a35201-200e-435a-a080-eeaa58453563"}
+{"patient_id":"591b98be-40e0-4d91-ad9a-bd453b28d851","encounters":"office visit","start":1572242835000,"end":1599834529000,"encounter_id":"a3eea88a-d40c-4446-9ff8-a580a533f8e8"}
+{"patient_id":"4de6e547-e0c4-4397-b9e5-5245f25d0666","encounters":"office visit","start":1587546092000,"end":1614132968000,"encounter_id":"a77afc95-5a2f-45d5-84d0-d8bb43010070"}
+{"patient_id":"306fbd95-3e1d-40f3-9d92-f97c594ffc86","encounters":"office visit","start":1553267465000,"end":1605880356000,"encounter_id":"ac29cf24-bc55-44bb-aadf-c12e9385a6f9"}
+{"patient_id":"ecc70d60-25b4-4638-a46f-66c9e54e7fdb","encounters":"office visit","start":1636707190000,"end":1638555959000,"encounter_id":"74cb79ec-aa0d-4781-866e-5474cab2a1c4"}
+{"patient_id":"a50e4870-4c5f-46d3-ae57-3541febb8a16","encounters":"office visit","start":1525542430000,"end":1638034361000,"encounter_id":"4dd011a7-7f19-451d-917b-3262662e7580"}
+{"patient_id":"8efbc497-194a-4fe2-a5c3-58dcbf43e405","encounters":"office visit","start":1575939334000,"end":1600306155000,"encounter_id":"f61d6c27-eead-45a3-974e-696e69f35d33"}
+{"patient_id":"17a67bc3-193d-4572-b1ed-92a4ec2e59ec","encounters":"call for advice","start":1557518947000,"end":1614911163000,"encounter_id":"f560af76-a16d-487e-998e-185cbb930aa4"}
+{"patient_id":"17635591-69a4-4273-9183-543063586af1","encounters":"office visit","start":1633016889000,"end":1637681760000,"encounter_id":"39f238b2-79a1-4468-9649-81b5e8f016ab"}
+{"patient_id":"faddebe9-e2d1-4c9f-92c3-0ec72462af3c","encounters":"office visit","start":1621790383000,"end":1639896111000,"encounter_id":"f3fb9247-6deb-44f1-9dca-6d73cf6b136f"}
+{"patient_id":"17a67bc3-193d-4572-b1ed-92a4ec2e59ec","encounters":"vaccination","start":1543084138000,"end":1599965315000,"encounter_id":"00f09270-bae0-4c1d-821d-3e3934d2a28b"}
+{"patient_id":"ffa48192-6345-48c9-a91c-c336daf6f897","encounters":"vaccination","start":1611757153000,"end":1622597863000,"encounter_id":"52a0d6ad-b396-4b30-9d80-824a065fec94"}
+{"patient_id":"4e8950f7-7766-4b6d-b685-cd28a84000ef","encounters":"vaccination","start":1637700936000,"end":1640706160000,"encounter_id":"0e5e01f5-42bf-4304-8034-20e494ff9d7f"}
+{"patient_id":"a57b2747-09c4-438b-a87a-a629aab5134c","encounters":"office visit","start":1583955711000,"end":1633693368000,"encounter_id":"a4e7c00d-f192-438e-961b-11c8e2e67e11"}
+{"patient_id":"07edfa02-26cd-4d0d-b63c-b558accb8f88","encounters":"office visit","start":1548790446000,"end":1562509947000,"encounter_id":"e012200a-6002-4903-ba76-ed05a42dfeca"}
+{"patient_id":"8f9ad747-b7ad-40f5-85d9-c40dcd50924a","encounters":"office visit","start":1533986645000,"end":1581390532000,"encounter_id":"2b1fbeb4-1445-4ff4-b20d-3a941e652b20"}
+{"patient_id":"9b3bb911-0b70-42cc-a5a2-3028b399f4e7","encounters":"hospitalization","start":1581557461000,"end":1592631467000,"encounter_id":"80353fb5-8aea-40fe-a0e6-8440208295b2"}
+{"patient_id":"4de6e547-e0c4-4397-b9e5-5245f25d0666","encounters":"office visit","start":1536239797000,"end":1558783742000,"encounter_id":"3fd99253-5a16-4616-8be0-f3ee5f14c535"}
+{"patient_id":"17635591-69a4-4273-9183-543063586af1","encounters":"outpatient procedure","start":1610829846000,"end":1622921438000,"encounter_id":"0576f148-253f-4b32-b741-9b26f5aab597"}
+{"patient_id":"84f52b7b-6741-48c2-97e9-7dbfddb4d092","encounters":"office visit","start":1530621422000,"end":1632224975000,"encounter_id":"3c7f74f7-c63f-49b7-8cf5-c27618bc4587"}
+{"patient_id":"919e46d9-ee04-49e4-9386-6014b9326b1c","encounters":"office visit","start":1559799999000,"end":1620409385000,"encounter_id":"e76d5c5f-9fbc-4cd4-95f9-e0ab13001c95"}
+{"patient_id":"c3fae46d-0c38-4a41-bb2d-025f7f1068f0","encounters":"office visit","start":1630898247000,"end":1633073617000,"encounter_id":"204071c0-fca0-4726-ba03-85e52945168f"}
+{"patient_id":"7c3bd0a5-d6a4-48c7-a268-34f490fd887b","encounters":"hospitalization","start":1633921448000,"end":1640566246000,"encounter_id":"6e52c821-ed2a-4e1d-88e4-7eef4a0b1be0"}
+{"patient_id":"e705a2f7-4405-4029-94da-a57fe6210e7d","encounters":"vaccination","start":1609288749000,"end":1628863433000,"encounter_id":"128ebae2-8d0a-47f0-8ca2-ae2ee318d970"}
+{"patient_id":"4c9ff13c-6a5b-40ab-b042-5913786d524e","encounters":"office visit","start":1624408269000,"end":1631169632000,"encounter_id":"f4ceccba-89a9-4bfb-82ec-dab0139a5149"}
+{"patient_id":"de33ba46-248c-4273-a556-8f6a99e2d430","encounters":"outpatient procedure","start":1577023791000,"end":1588142628000,"encounter_id":"ec3b596b-05d3-4ffe-a3ae-f599ce52de56"}
+{"patient_id":"749b5d4c-2464-4be8-8d21-b3ffa86a53ee","encounters":"outpatient procedure","start":1542680793000,"end":1638480973000,"encounter_id":"9c376d39-99f2-492a-97f8-dd42ceedf17b"}
+{"patient_id":"5f6e9fd8-7353-4816-9460-fdb33e919a3b","encounters":"emergency room","start":1605908029000,"end":1612839731000,"encounter_id":"c8e69083-3dfd-48af-b3fc-88aa39c0dd09"}
+{"patient_id":"b82aab28-c7bd-4659-a384-1053551bb243","encounters":"emergency room","start":1572083018000,"end":1604950063000,"encounter_id":"49090246-3e68-4531-995e-fd71018d6bdf"}
+{"patient_id":"23f3a569-b1fa-470c-81f7-e730e4f21430","encounters":"outpatient procedure","start":1629263860000,"end":1633781313000,"encounter_id":"cb25348e-1761-4847-8309-aba576638e2f"}
+{"patient_id":"245a387e-cd6a-4f83-9008-931c5da445f9","encounters":"office visit","start":1627373929000,"end":1635165434000,"encounter_id":"c25380a0-ff3c-4ebf-84ab-1e32ecadb1e1"}
+{"patient_id":"b82aab28-c7bd-4659-a384-1053551bb243","encounters":"vaccination","start":1520192969000,"end":1628052589000,"encounter_id":"3b8fcd6d-1b5b-4ded-8cd1-4ffbc865aba6"}
+{"patient_id":"6d0ae6f8-c908-4a86-afae-c461058c2d53","encounters":"hospitalization","start":1618927076000,"end":1624886287000,"encounter_id":"f0916b1d-5d76-4e1f-a77b-c74f66c16785"}
+{"patient_id":"4de6e547-e0c4-4397-b9e5-5245f25d0666","encounters":"office visit","start":1615120637000,"end":1625392392000,"encounter_id":"a967893d-77ab-4bb2-84be-7091abe6085c"}
+{"patient_id":"d764b272-b379-4b66-907d-73fd698329e5","encounters":"vaccination","start":1607317234000,"end":1628768762000,"encounter_id":"29c5cf26-a4bd-41c2-9570-c38d7d78fabf"}
+{"patient_id":"38d148c0-5b24-442a-8fa4-aa17654dccfb","encounters":"outpatient procedure","start":1618824794000,"end":1638912502000,"encounter_id":"f0f21e4f-4beb-47fb-b2a3-c2ca3a24e628"}
+{"patient_id":"6c33374b-77d5-4149-95af-29f5e30cac57","encounters":"office visit","start":1636942408000,"end":1637456865000,"encounter_id":"29550036-1282-4cad-9ab8-d687ce9e134c"}
+{"patient_id":"9a0b0e5a-7ee0-4de0-9bd5-52e3ded8a49c","encounters":"outpatient procedure","start":1585796767000,"end":1598576439000,"encounter_id":"f1dcd05f-0e5c-4996-9925-cbc757305ede"}
+{"patient_id":"b0e06260-7efa-4a6e-913d-6c0742aab369","encounters":"office visit","start":1580691911000,"end":1592799295000,"encounter_id":"a9320c39-3204-4481-a00e-ebe083d74704"}
+{"patient_id":"516a3bd8-9f4b-4835-b554-9f747d8d0a2e","encounters":"vaccination","start":1536647344000,"end":1638306486000,"encounter_id":"ef2e93ce-6f80-4894-9362-7a8f6a489d8a"}
+{"patient_id":"4b05601e-16f0-443c-9963-d1576858fc9a","encounters":"call for advice","start":1586866197000,"end":1598897649000,"encounter_id":"dd153092-f44d-494a-8727-71af363de957"}
+{"patient_id":"2d423123-1aa1-43b5-94a0-969de72af959","encounters":"office visit","start":1615614289000,"end":1631685062000,"encounter_id":"6339c090-7446-4e56-9541-d8c434405e97"}
+{"patient_id":"e17e9d80-e374-4c43-b6ef-5c74e2310768","encounters":"hospitalization","start":1566943770000,"end":1625031129000,"encounter_id":"94fec044-8cab-4f68-bbf7-4971d8f7a1dd"}
+{"patient_id":"3d9f21d7-673a-406f-a375-44b72ddab2cc","encounters":"office visit","start":1632567038000,"end":1635438733000,"encounter_id":"f6a2ed1f-04cf-43f9-ad3e-ef87332bf251"}
+{"patient_id":"32d208c3-8149-4978-a150-6aa6e0fb19e2","encounters":"vaccination","start":1578061959000,"end":1600595159000,"encounter_id":"05a9b613-d369-46c2-ba64-36ca3dfc6ae8"}
+{"patient_id":"329a8153-22f2-4636-8916-72d124aefbf6","encounters":"vaccination","start":1555638317000,"end":1574349425000,"encounter_id":"9863b98d-fef2-4ced-ad28-fd793b4a8fd6"}
+{"patient_id":"32d208c3-8149-4978-a150-6aa6e0fb19e2","encounters":"vaccination","start":1594361558000,"end":1615624075000,"encounter_id":"759f1ad1-134a-40c3-b2d3-0bc701f88e74"}
+{"patient_id":"117fefec-f4aa-40a0-9446-1658d05a750e","encounters":"hospitalization","start":1621377759000,"end":1633884885000,"encounter_id":"aff7278c-487a-4ac6-b7c7-00c516d691d3"}
+{"patient_id":"4c40a25d-fa7d-4225-9603-f815eb309ba8","encounters":"office visit","start":1559006306000,"end":1628516200000,"encounter_id":"6885e9b5-b2ef-4128-8262-12e34bc114a6"}
+{"patient_id":"b0e06260-7efa-4a6e-913d-6c0742aab369","encounters":"office visit","start":1517561395000,"end":1527220235000,"encounter_id":"0e82f9da-290e-42b3-a264-46e5c33efb18"}
+{"patient_id":"2d423123-1aa1-43b5-94a0-969de72af959","encounters":"office visit","start":1621947369000,"end":1622259544000,"encounter_id":"eae18865-c426-4611-b686-22e977332a5f"}
+{"patient_id":"c3fae46d-0c38-4a41-bb2d-025f7f1068f0","encounters":"office visit","start":1608129006000,"end":1621569544000,"encounter_id":"19fae67d-189a-4c18-a54f-c8798b5b81c2"}
+{"patient_id":"266ddba6-90ca-4a71-b95e-4041ac209b57","encounters":"vaccination","start":1586320883000,"end":1617553391000,"encounter_id":"1c222a42-b426-472f-ad39-fa5643f14d80"}
+{"patient_id":"0071b621-318f-4a33-9359-4eb0a3de82cb","encounters":"emergency room","start":1565042021000,"end":1633436027000,"encounter_id":"538bd1e3-d285-42e9-bd7f-93e1b7b83c41"}
+{"patient_id":"6c33374b-77d5-4149-95af-29f5e30cac57","encounters":"office visit","start":1518592923000,"end":1567339874000,"encounter_id":"98027cfd-057e-4440-b91c-37392aff72e1"}
+{"patient_id":"4de6e547-e0c4-4397-b9e5-5245f25d0666","encounters":"office visit","start":1543199551000,"end":1584950604000,"encounter_id":"98c1bef1-0f17-47ef-84c6-6a56ad607231"}
+{"patient_id":"a6c9d9f2-026b-4a6b-a65a-d8f09e797e67","encounters":"office visit","start":1598694808000,"end":1632025406000,"encounter_id":"cab5e099-470a-4857-adbd-ca06ef9cc071"}
+{"patient_id":"ffa48192-6345-48c9-a91c-c336daf6f897","encounters":"emergency room","start":1556789962000,"end":1570656168000,"encounter_id":"03bde718-f77e-48a4-822e-59481c6f297d"}
+{"patient_id":"c3fae46d-0c38-4a41-bb2d-025f7f1068f0","encounters":"office visit","start":1602806275000,"end":1633343380000,"encounter_id":"b2ceb4ff-3783-4e9c-b8a5-05ca27e1bcbd"}
+{"patient_id":"806a6397-e95b-4f17-b11b-d97a1f354223","encounters":"outpatient procedure","start":1608327073000,"end":1609384974000,"encounter_id":"19f142ba-8c4e-44bc-bac6-6f78feae4fd4"}
+{"patient_id":"49cd5e3d-a0a3-4bff-a9ad-38778967a0a1","encounters":"office visit","start":1595714131000,"end":1607306124000,"encounter_id":"c871208d-fce2-4cdb-bb2b-aa7bf327b809"}
+{"patient_id":"49cd5e3d-a0a3-4bff-a9ad-38778967a0a1","encounters":"office visit","start":1626360946000,"end":1635567146000,"encounter_id":"8ac9030d-ddf8-4259-917f-551ab26d39d1"}
+{"patient_id":"ecc70d60-25b4-4638-a46f-66c9e54e7fdb","encounters":"office visit","start":1519114265000,"end":1529258253000,"encounter_id":"d7dbe4e1-08e4-4aa8-b4d7-4e95ea34b04f"}
+{"patient_id":"e17e9d80-e374-4c43-b6ef-5c74e2310768","encounters":"outpatient procedure","start":1547253942000,"end":1632793340000,"encounter_id":"61ca3b5b-6530-4f1a-8508-0da6b5f8d2c5"}
+{"patient_id":"0496c8ab-a239-46e7-b96a-ac0cfed177d5","encounters":"office visit","start":1601459866000,"end":1624526253000,"encounter_id":"e0163661-9428-462f-a2ed-2a0cc1e5d685"}
+{"patient_id":"f9b909b0-c301-4db1-9c30-a5c2fdd0f3e8","encounters":"outpatient procedure","start":1522459832000,"end":1590419120000,"encounter_id":"bb890996-63f1-4180-b49b-83f2f1c7002a"}
+{"patient_id":"4b05601e-16f0-443c-9963-d1576858fc9a","encounters":"outpatient procedure","start":1640761372000,"end":1640903527000,"encounter_id":"cd660e9a-403a-4765-b5af-9cad3cdf3281"}
+{"patient_id":"c3fae46d-0c38-4a41-bb2d-025f7f1068f0","encounters":"office visit","start":1555900574000,"end":1635201726000,"encounter_id":"80906ace-8d87-4dac-8976-3b493636ec14"}
+{"patient_id":"c3fae46d-0c38-4a41-bb2d-025f7f1068f0","encounters":"office visit","start":1548161925000,"end":1640091555000,"encounter_id":"20c529ac-6a9d-4d4a-91a6-9a0047afa546"}
+{"patient_id":"498d30c5-7b1b-41cc-8d30-939675b60755","encounters":"office visit","start":1566687122000,"end":1617958797000,"encounter_id":"b35f5c60-389d-47a2-a69b-d2f5485f4d31"}
+{"patient_id":"89ba69b5-2e1f-4453-9d2e-4ba70822bf25","encounters":"office visit","start":1522571147000,"end":1571949634000,"encounter_id":"828bbaeb-25de-4194-994a-5fb6078e39e4"}
+{"patient_id":"a6c9d9f2-026b-4a6b-a65a-d8f09e797e67","encounters":"office visit","start":1516822126000,"end":1558871665000,"encounter_id":"b948637f-17d3-4567-9d6c-6ea098d02226"}
+{"patient_id":"23d54869-568a-4b10-9d34-adce843f8844","encounters":"office visit","start":1547191139000,"end":1632469275000,"encounter_id":"97860efe-9c7f-4d97-b669-da82b4401b2c"}
+{"patient_id":"0f3b24b0-7e8d-4645-a8c6-4de09149d2f7","encounters":"office visit","start":1573118174000,"end":1626124440000,"encounter_id":"a2b397ce-87f9-4af0-a400-475584ef197b"}
+{"patient_id":"c3fae46d-0c38-4a41-bb2d-025f7f1068f0","encounters":"office visit","start":1527884308000,"end":1638690116000,"encounter_id":"290a73f6-d899-4e45-bd64-52fe618e8147"}
+{"patient_id":"117fefec-f4aa-40a0-9446-1658d05a750e","encounters":"hospitalization","start":1565248065000,"end":1581593080000,"encounter_id":"32e643a3-a462-4e2c-9763-ca50af1729b5"}
+{"patient_id":"e051bc97-039a-47b7-8f7c-29fa078643f3","encounters":"icu","start":1595962282000,"end":1628733443000,"encounter_id":"5cf4a922-541f-40f9-9dff-069561d06671"}
+{"patient_id":"e17e9d80-e374-4c43-b6ef-5c74e2310768","encounters":"office visit","start":1611510628000,"end":1622850554000,"encounter_id":"48da95de-8178-4234-9230-8d1c31af66c8"}
+{"patient_id":"6c33374b-77d5-4149-95af-29f5e30cac57","encounters":"outpatient procedure","start":1596411584000,"end":1625793559000,"encounter_id":"2ee0729e-7504-47da-88d2-7d9974c9a942"}
+{"patient_id":"c24efd37-9918-4251-addf-9d896c646e06","encounters":"vaccination","start":1628397322000,"end":1636913665000,"encounter_id":"6e91f313-dc31-4ce4-9a90-0d2a6944615b"}
+{"patient_id":"3311b2d6-3732-4e93-904a-1aa1d2540e0e","encounters":"hospitalization","start":1628478676000,"end":1635845281000,"encounter_id":"b39e1525-11bb-4c9c-9eaa-a14fffad5522"}
+{"patient_id":"e113f21d-378e-476d-87c6-b7f1670b8df2","encounters":"emergency room","start":1621821152000,"end":1630585450000,"encounter_id":"340bcf94-2711-4c53-a5a8-36e51377df7a"}
+{"patient_id":"0ca968c8-946e-4dbd-bc9c-65f30ee532f5","encounters":"office visit","start":1523064680000,"end":1616511066000,"encounter_id":"a5ef6535-cec4-4c61-90d3-506e34c92525"}
+{"patient_id":"be59a4cb-9ead-40e7-b16c-065e4d74fddf","encounters":"hospitalization","start":1581615642000,"end":1581801925000,"encounter_id":"bc4b8411-5497-4c07-85ed-7d359079ba44"}
+{"patient_id":"e705a2f7-4405-4029-94da-a57fe6210e7d","encounters":"icu","start":1596363879000,"end":1630753687000,"encounter_id":"a4d11f30-7876-4fe9-9333-150d2075318b"}
+{"patient_id":"4de6e547-e0c4-4397-b9e5-5245f25d0666","encounters":"office visit","start":1601169322000,"end":1612477018000,"encounter_id":"0ccdc84f-e5e9-4640-a103-303ab23bcf85"}
+{"patient_id":"a6c9d9f2-026b-4a6b-a65a-d8f09e797e67","encounters":"emergency room","start":1605577532000,"end":1627918215000,"encounter_id":"b5298ef6-608b-454c-9611-6c848c5cfa1a"}
+{"patient_id":"95c261c4-130a-4713-ba68-630a5b4f57e4","encounters":"outpatient procedure","start":1531662071000,"end":1588104995000,"encounter_id":"8f2ce5b2-06f5-4444-8bb6-3661701e05f4"}
+{"patient_id":"32c62c30-46ff-49a0-89c5-a256038eacdb","encounters":"outpatient procedure","start":1554744236000,"end":1634575129000,"encounter_id":"e74e09fe-e51c-4578-97c5-084bf042bbc5"}
+{"patient_id":"329a8153-22f2-4636-8916-72d124aefbf6","encounters":"office visit","start":1573137741000,"end":1612864110000,"encounter_id":"4d691cf2-b868-4c91-b95b-b1af584aa086"}
+{"patient_id":"49cd5e3d-a0a3-4bff-a9ad-38778967a0a1","encounters":"hospitalization","start":1560917813000,"end":1627911479000,"encounter_id":"9788b08e-ce6a-4de8-b185-48fd2ae1dfaf"}
+{"patient_id":"0c9b61d8-79da-4f25-837a-a14256ef4c78","encounters":"office visit","start":1597894071000,"end":1610147165000,"encounter_id":"dfc110f9-7af7-40ae-8e71-8f8bd02866fe"}
+{"patient_id":"6426376f-f12a-48ef-96a3-6edd7ed2002c","encounters":"outpatient procedure","start":1605032195000,"end":1630138753000,"encounter_id":"cfc0ab9c-cc86-4a1b-b6b5-ea044e27778a"}
+{"patient_id":"5f6e9fd8-7353-4816-9460-fdb33e919a3b","encounters":"office visit","start":1633100590000,"end":1634090013000,"encounter_id":"9af36ce1-8b0f-4d95-85f4-2637048a3460"}
+{"patient_id":"218d1c4b-55a5-49d2-9f50-53208e2d6256","encounters":"icu","start":1550703426000,"end":1564023318000,"encounter_id":"d9a4f213-87b2-4a8b-bc76-f1c112100d3c"}
+{"patient_id":"0496c8ab-a239-46e7-b96a-ac0cfed177d5","encounters":"office visit","start":1532158092000,"end":1582131461000,"encounter_id":"a927f2e6-d07b-483b-acfb-e29c7da7a57b"}
+{"patient_id":"0c9b61d8-79da-4f25-837a-a14256ef4c78","encounters":"hospitalization","start":1583605007000,"end":1597767466000,"encounter_id":"c76c1ede-1510-47d9-a1f4-02d677556ac0"}
+{"patient_id":"245a387e-cd6a-4f83-9008-931c5da445f9","encounters":"office visit","start":1615264179000,"end":1636491388000,"encounter_id":"56961f33-62c4-4d7b-9872-381c2ed47a22"}
+{"patient_id":"5f7031ea-e45d-41c5-8d7e-35f2fb98ef29","encounters":"office visit","start":1518753865000,"end":1584008750000,"encounter_id":"47ac1a38-bf4f-4c9b-8f64-c84985908e26"}
+{"patient_id":"591b98be-40e0-4d91-ad9a-bd453b28d851","encounters":"office visit","start":1583360289000,"end":1636606548000,"encounter_id":"796998bc-70e1-41b5-9d4d-2d00bb5b914a"}
+{"patient_id":"caa72261-0969-4a93-b37d-b41bebd6daaf","encounters":"office visit","start":1567784332000,"end":1613287867000,"encounter_id":"633a1efe-6849-4aef-9cee-c2f842b8fbcf"}
+{"patient_id":"32c62c30-46ff-49a0-89c5-a256038eacdb","encounters":"outpatient procedure","start":1518578120000,"end":1582415294000,"encounter_id":"26bb2f41-f3a0-4b7f-a6ed-de5ccef59d9b"}
+{"patient_id":"95c261c4-130a-4713-ba68-630a5b4f57e4","encounters":"office visit","start":1528230238000,"end":1616199935000,"encounter_id":"0b401140-e700-4cd8-888d-66a3331ba9cd"}
+{"patient_id":"4be8cc65-e72c-4c81-8954-f3647f4da5c7","encounters":"vaccination","start":1602475035000,"end":1627922919000,"encounter_id":"038e817a-bfb8-4529-b938-ab7ed3bec12c"}
+{"patient_id":"32d208c3-8149-4978-a150-6aa6e0fb19e2","encounters":"hospitalization","start":1579949877000,"end":1614142197000,"encounter_id":"57bea683-018b-4025-8e61-8d6908da26d2"}
+{"patient_id":"07edfa02-26cd-4d0d-b63c-b558accb8f88","encounters":"hospitalization","start":1524372789000,"end":1526998970000,"encounter_id":"652e1a07-3f49-4053-9131-6400e52e3e78"}
+{"patient_id":"306fbd95-3e1d-40f3-9d92-f97c594ffc86","encounters":"call for advice","start":1590745082000,"end":1608146222000,"encounter_id":"2e8ba1a1-3000-4de8-8711-fd1f96feddcb"}
+{"patient_id":"9a0b0e5a-7ee0-4de0-9bd5-52e3ded8a49c","encounters":"office visit","start":1515982053000,"end":1531717601000,"encounter_id":"24e4ad3e-a11a-461c-9d34-b1e8c31c610a"}
+{"patient_id":"109a2009-5ffd-455b-a3e3-66f358d16d6a","encounters":"office visit","start":1627840978000,"end":1635287269000,"encounter_id":"42f6319e-5aaa-4473-9430-c889858c4c9f"}
+{"patient_id":"c3fae46d-0c38-4a41-bb2d-025f7f1068f0","encounters":"office visit","start":1609289576000,"end":1621392678000,"encounter_id":"eb590595-9d4d-4b7e-89bd-221af474d125"}
+{"patient_id":"0ca968c8-946e-4dbd-bc9c-65f30ee532f5","encounters":"office visit","start":1574195058000,"end":1589221303000,"encounter_id":"fc83d5cf-997a-4d24-8cb6-0f27b877ed0f"}
+{"patient_id":"175774f3-c1c9-4da2-8714-ad1d526f7ebe","encounters":"office visit","start":1602147647000,"end":1605684814000,"encounter_id":"65c85adf-15c6-433e-a828-55aceb7c11cd"}
+{"patient_id":"4be8cc65-e72c-4c81-8954-f3647f4da5c7","encounters":"emergency room","start":1569734493000,"end":1580985926000,"encounter_id":"cfafa0f6-434a-401a-aacb-264c1e0be621"}
+{"patient_id":"c3fae46d-0c38-4a41-bb2d-025f7f1068f0","encounters":"emergency room","start":1633367133000,"end":1635189703000,"encounter_id":"b3aefd99-b0a2-49e6-aacf-904e9db89261"}
+{"patient_id":"a6c9d9f2-026b-4a6b-a65a-d8f09e797e67","encounters":"office visit","start":1554178618000,"end":1564384708000,"encounter_id":"e715b596-7f22-4f73-8bd5-0d005fc375f9"}
+{"patient_id":"38d148c0-5b24-442a-8fa4-aa17654dccfb","encounters":"outpatient procedure","start":1538818894000,"end":1639094417000,"encounter_id":"aa587eca-bbbc-47f2-8020-7cd4d311f4b2"}
