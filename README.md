@@ -1,37 +1,43 @@
-At Particle Health, we analyze and supply all kinds of health data for all kinds of clients, both internal and external. This take home assignment is meant to gauge your comfort working with data and your programming ability.
+# **Part 1: Coding Answers:** 
 
-We would prefer that you complete the assignment in Python. If you're not very comfortable with Python, you may use a different programming language, but please do not use any kind of spreadsheet software (Excel, Google Sheets, etc.)
-
-You should only spend a few hours on this assignment (no more than ​5 hours​, please) and submit it within 4 days of receipt (i.e. if you receive it on a Monday, it's due by Friday night; if you receive it on a Wednesday, it's due by Sunday night). We realize that this is less than the time required to do impeccable work, and that's totally fine. Do your best to get a working version, and note what you would have done given more time in the README. 
-
-## Ingredients
-This folder contains:
-- This readme
-- A csv of (fake) patients and their demographic info
-- A JSON document containing information about patient encounters 
-
-## Part 1: Coding
-Create and submit code to:
-- Find the patient with the most encounters
-- Calculate the number of vaccine appointments by gender
-- Calculate the number of encounters per year
-- Create a data visualization of your choice. Please use code to get data into the correct shape to visualize, but you can use any program to create the visualization. Write a quick paragraph about your visualization, aimed at a non-technical audience, explaining why it's useful and how to interpret it. 
-
-Make sure your code uses functions and can run outside of a notebook!
-
-Please also provide a README targeted at a technical audience, explaining how to set up and run your code and any future improvements you might make. We will actually be running your code, so make sure the instructions are accurate!
+# **How to set up and run the code.**  
+Please change the path for the file while reading it in, depending on the position of files on your computer.  
+Run as explained in the image below, also the instructions are in comments of the notebook
+![image](https://user-images.githubusercontent.com/63582428/163691367-f26dd986-1bd4-43ca-ae59-20cd4807ac66.png)  
 
 
-## Part 2: Questions
-You can either answer these questions in the README or in a separate document. 
+Code in the notebook named "particle_health_task.ipynb":  
+- Find the patient with the most encounters:  
+![image](https://user-images.githubusercontent.com/63582428/163691794-280e95fd-afe5-45ee-8916-840ae6655b36.png)
 
-1. What are future improvements you might make for your code?
-2. Let's say we want to run this code as a nightly job. What changes/additions would you make to it?
-3. What are some issues you noticed with the data?
-4. What data do you wish you had?
+- Calculate the number of vaccine appointments by gender:  
+![image](https://user-images.githubusercontent.com/63582428/163691766-460654df-c01b-4ab5-ac47-b55c8495b491.png)
 
-## Part 3: Submitting
-Please submit your completed exercise to the link in the assignment email. Please do not post your solution publicly such as on Github.
+- Calculate the number of encounters per year:  
+![image](https://user-images.githubusercontent.com/63582428/163691775-e569a8e1-774c-4d7a-ad63-0d1e42116e9f.png)
 
-Have fun!
-If you have any questions, send an email to data.internships@particlehealth.com
+- Visualization of choice:  
+### For viewing the app with the visualizations: 
+Either:
+- You can go the link displayed after the secon-last code chunk is executed  
+
+Or:
+- You can do it inline using the last code chunk
+
+
+
+
+# **Part 2 :Answers for the Questions**
+ 
+
+### **What are future improvements you might make for your code?**     
+*I would try to look at ways to improvise on my function update_figure for the app, since now it is very case specific for two types of inputs, I would like to build   more on it and make it more generalizable, one way to do it would be setting the data frame itself in the right format.* 
+
+### **Let's say we want to run this code as a nightly job. What changes/additions would you make to it?**   
+*Since, it would be designed for a nightly job, and also just focusing on the visualization I made, the things that would be changing would be the data itself. I will make provisions for new/ updated data to be pulled every day, and run the app based off these updates, and do a build every night, to have most up-to-date information in place.*
+
+### **What are some issues you noticed with the data?**
+*One think was it being distributed through two files, the presence of duplicate patient-ids, although they had different information, it would have been better if they could have been integrated all in one row, as this possibly made the merging operation a bit longer, as had to deal with duplicate values post merging. The start and end time for encounters was not interpretable, although I agree it might be for de-identification puroposes, but it should have been somewhat interpretable, maybe could have just shifted the years in future.*  
+
+### **What data do you wish you had?**    
+*I wish I had other vital signs, and any other information collected or measured during a particular encounter, as it would have been interesting to visualize some of the vital signs stratified by disease type as well.*
