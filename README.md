@@ -19,7 +19,7 @@ Code in the notebook named "particle_health_task.ipynb":
 - Visualization of choice:  
 ### For viewing the app with the visualizations: 
 Either:
-- You can go the link displayed after the secon-last code chunk is executed  
+- You can go the link displayed after the second-last code chunk is executed  
 
 Or:
 - You can do it inline using the last code chunk  
@@ -42,7 +42,7 @@ Or:
 *Since, it would be designed for a nightly job, and also just focusing on the visualization I made, the things that would be changing would be the data itself. I will make provisions for new/ updated data to be pulled every day, and run the app based off these updates, and do a build every night, to have most up-to-date information in place.*
 
 ### **What are some issues you noticed with the data?**
-*One think was it being distributed through two files, the presence of duplicate patient-ids, although they had different information, it would have been better if they could have been integrated all in one row, as this possibly made the merging operation a bit longer, as had to deal with duplicate values post merging. The start and end time for encounters was not interpretable, although I agree it might be for de-identification puroposes, but it should have been somewhat interpretable, maybe could have just shifted the years in future.*  
+*One think was it being distributed through two files, the presence of duplicate patient-ids, although they had different information, it would have been better if they could have been integrated all in one row, as this possibly made the merging operation a bit longer, as had to deal with duplicate values post merging. The start and end time for encounters was not interpretable, although I agree it might be for de-identification purposes, but it should have been somewhat interpretable, maybe could have just shifted the years in future.*  
 
 ### **What data do you wish you had?**    
 *I wish I had other vital signs, and any other information collected or measured during a particular encounter, as it would have been interesting to visualize some of the vital signs stratified by disease type as well.*
