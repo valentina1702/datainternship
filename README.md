@@ -22,9 +22,14 @@ Either:
 - You can go the link displayed after the secon-last code chunk is executed  
 
 Or:
-- You can do it inline using the last code chunk
+- You can do it inline using the last code chunk  
 
 
+### Explanation for Non-Technical audience:
+- So in the app that i created below, I included 2 drop-down menus. One to select the criteria to be visualized, being the comparison among different age gropus or across different disease types. Second being the criteria you want to distinguish between for the above selected type. i.e distinguish them by age or by encounter type.    
+- I feel this is useful because we can first get a sense of what population we are looking at if we see the graph of age stratified by gender. We can see which disease type is most prevelant across which sex if we look at graph with disease type stratified by gender. We can also observe the different encounters across each group to sense of understand which encounter is common across which age group, if we select age stratified by encounter type. Also can look at which encounter is common across different disease types, if we select disease type stratified by encounter type.   
+- I included the dropdown, to let the visualizers have the liberty to choose what they wish to see, and also not overwhelm them by presenting all information all at once. 
+- The graphs are interactive, meaning you can hover over each bar to get more information.
 
 
 # **Part 2 :Answers for the Questions**
